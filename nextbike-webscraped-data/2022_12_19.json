@@ -1,0 +1,5285 @@
+[
+    {
+        "bikeid": 17004,
+        "time_origin": 1671401310,
+        "lat_origin": 52.48768,
+        "long_origin": 13.425573,
+        "time_destination": 1671404359,
+        "lat_destination": 52.483276,
+        "long_destination": 13.440961
+    },
+    {
+        "bikeid": 17007,
+        "time_origin": 1671404298,
+        "lat_origin": 52.520596,
+        "long_origin": 13.401709,
+        "time_destination": 1671404359,
+        "lat_destination": 52.5216,
+        "long_destination": 13.404529
+    },
+    {
+        "bikeid": 19878,
+        "time_origin": 1670573870,
+        "lat_origin": 52.468173,
+        "long_origin": 13.438489,
+        "time_destination": 1671405518,
+        "lat_destination": 52.470409,
+        "long_destination": 13.438363
+    },
+    {
+        "bikeid": 19116,
+        "time_origin": 1671308871,
+        "lat_origin": 52.499169,
+        "long_origin": 13.446061,
+        "time_destination": 1671405945,
+        "lat_destination": 52.548618,
+        "long_destination": 13.404871
+    },
+    {
+        "bikeid": 19666,
+        "time_origin": 1671061246,
+        "lat_origin": 52.484244,
+        "long_origin": 13.45141,
+        "time_destination": 1671406799,
+        "lat_destination": 52.482969,
+        "long_destination": 13.423227
+    },
+    {
+        "bikeid": 15198,
+        "time_origin": 1671405885,
+        "lat_origin": 52.493796,
+        "long_origin": 13.402667,
+        "time_destination": 1671407043,
+        "lat_destination": 52.498747,
+        "long_destination": 13.391846
+    },
+    {
+        "bikeid": 17424,
+        "time_origin": 1671407043,
+        "lat_origin": 52.522916,
+        "long_origin": 13.398538,
+        "time_destination": 1671407104,
+        "lat_destination": 52.524218,
+        "long_destination": 13.400806
+    },
+    {
+        "bikeid": 17424,
+        "time_origin": 1671407104,
+        "lat_origin": 52.524218,
+        "long_origin": 13.400806,
+        "time_destination": 1671407165,
+        "lat_destination": 52.52272,
+        "long_destination": 13.397738
+    },
+    {
+        "bikeid": 19017,
+        "time_origin": 1671148003,
+        "lat_origin": 52.495249,
+        "long_origin": 13.346608,
+        "time_destination": 1671407287,
+        "lat_destination": 52.49816,
+        "long_destination": 13.352947
+    },
+    {
+        "bikeid": 18068,
+        "time_origin": 1671234547,
+        "lat_origin": 52.487649,
+        "long_origin": 13.422754,
+        "time_destination": 1671407409,
+        "lat_destination": 52.484209,
+        "long_destination": 13.421991
+    },
+    {
+        "bikeid": 16846,
+        "time_origin": 1671407409,
+        "lat_origin": 52.50112,
+        "long_origin": 13.444988,
+        "time_destination": 1671407470,
+        "lat_destination": 52.504013,
+        "long_destination": 13.442619
+    },
+    {
+        "bikeid": 18292,
+        "time_origin": 1671406250,
+        "lat_origin": 52.512409,
+        "long_origin": 13.470237,
+        "time_destination": 1671407531,
+        "lat_destination": 52.505169,
+        "long_destination": 13.407902
+    },
+    {
+        "bikeid": 15688,
+        "time_origin": 1671015240,
+        "lat_origin": 52.530676,
+        "long_origin": 13.33879,
+        "time_destination": 1671407592,
+        "lat_destination": 52.523142,
+        "long_destination": 13.333079
+    },
+    {
+        "bikeid": 16846,
+        "time_origin": 1671407653,
+        "lat_origin": 52.50468,
+        "long_origin": 13.442377,
+        "time_destination": 1671407714,
+        "lat_destination": 52.501187,
+        "long_destination": 13.445038
+    },
+    {
+        "bikeid": 17489,
+        "time_origin": 1671211306,
+        "lat_origin": 52.517978,
+        "long_origin": 13.378283,
+        "time_destination": 1671407714,
+        "lat_destination": 52.522738,
+        "long_destination": 13.411216
+    },
+    {
+        "bikeid": 19453,
+        "time_origin": 1670512509,
+        "lat_origin": 52.491773,
+        "long_origin": 13.435497,
+        "time_destination": 1671408324,
+        "lat_destination": 52.503036,
+        "long_destination": 13.453206
+    },
+    {
+        "bikeid": 18272,
+        "time_origin": 1671408630,
+        "lat_origin": 52.511484,
+        "long_origin": 13.43112,
+        "time_destination": 1671408690,
+        "lat_destination": 52.510507,
+        "long_destination": 13.43362
+    },
+    {
+        "bikeid": 17413,
+        "time_origin": 1671407226,
+        "lat_origin": 52.496209,
+        "long_origin": 13.387846,
+        "time_destination": 1671408873,
+        "lat_destination": 52.523396,
+        "long_destination": 13.339953
+    },
+    {
+        "bikeid": 10988,
+        "time_origin": 1671208744,
+        "lat_origin": 52.506591,
+        "long_origin": 13.391793,
+        "time_destination": 1671409422,
+        "lat_destination": 52.529484,
+        "long_destination": 13.385492
+    },
+    {
+        "bikeid": 16650,
+        "time_origin": 1671410643,
+        "lat_origin": 52.438089,
+        "long_origin": 13.389642,
+        "time_destination": 1671410887,
+        "lat_destination": 52.439738,
+        "long_destination": 13.387314
+    },
+    {
+        "bikeid": 17229,
+        "time_origin": 1669713469,
+        "lat_origin": 52.539818,
+        "long_origin": 13.57722,
+        "time_destination": 1671411863,
+        "lat_destination": 52.502644,
+        "long_destination": 13.468892
+    },
+    {
+        "bikeid": 19034,
+        "time_origin": 1670701570,
+        "lat_origin": 52.47552,
+        "long_origin": 13.366354,
+        "time_destination": 1671412167,
+        "lat_destination": 52.505396,
+        "long_destination": 13.384283
+    },
+    {
+        "bikeid": 17833,
+        "time_origin": 1671193128,
+        "lat_origin": 52.508351,
+        "long_origin": 13.452823,
+        "time_destination": 1671412350,
+        "lat_destination": 52.509911,
+        "long_destination": 13.434939
+    },
+    {
+        "bikeid": 14181,
+        "time_origin": 1670830816,
+        "lat_origin": 52.5142,
+        "long_origin": 13.40593,
+        "time_destination": 1671413204,
+        "lat_destination": 52.507196,
+        "long_destination": 13.447506
+    },
+    {
+        "bikeid": 10884,
+        "time_origin": 1671376421,
+        "lat_origin": 52.499333,
+        "long_origin": 13.355256,
+        "time_destination": 1671413571,
+        "lat_destination": 52.496876,
+        "long_destination": 13.439431
+    },
+    {
+        "bikeid": 17323,
+        "time_origin": 1671111247,
+        "lat_origin": 52.483218,
+        "long_origin": 13.382946,
+        "time_destination": 1671414546,
+        "lat_destination": 52.48348,
+        "long_destination": 13.377237
+    },
+    {
+        "bikeid": 17801,
+        "time_origin": 1671414912,
+        "lat_origin": 52.500098,
+        "long_origin": 13.352151,
+        "time_destination": 1671415487,
+        "lat_destination": 52.4988,
+        "long_destination": 13.349477
+    },
+    {
+        "bikeid": 18045,
+        "time_origin": 1671008530,
+        "lat_origin": 52.521102,
+        "long_origin": 13.366213,
+        "time_destination": 1671416829,
+        "lat_destination": 52.498649,
+        "long_destination": 13.366301
+    },
+    {
+        "bikeid": 16737,
+        "time_origin": 1668311853,
+        "lat_origin": 52.464533,
+        "long_origin": 13.330398,
+        "time_destination": 1671417256,
+        "lat_destination": 52.458,
+        "long_destination": 13.333273
+    },
+    {
+        "bikeid": 17515,
+        "time_origin": 1671316679,
+        "lat_origin": 52.566569,
+        "long_origin": 13.413953,
+        "time_destination": 1671417378,
+        "lat_destination": 52.570036,
+        "long_destination": 13.413169
+    },
+    {
+        "bikeid": 19480,
+        "time_origin": 1671417439,
+        "lat_origin": 52.5108,
+        "long_origin": 13.507649,
+        "time_destination": 1671418354,
+        "lat_destination": 52.502231,
+        "long_destination": 13.470107
+    },
+    {
+        "bikeid": 19529,
+        "time_origin": 1670589730,
+        "lat_origin": 52.533991,
+        "long_origin": 13.394313,
+        "time_destination": 1671420428,
+        "lat_destination": 52.527822,
+        "long_destination": 13.353078
+    },
+    {
+        "bikeid": 16936,
+        "time_origin": 1671420855,
+        "lat_origin": 52.525311,
+        "long_origin": 13.344068,
+        "time_destination": 1671420916,
+        "lat_destination": 52.542587,
+        "long_destination": 13.064189
+    },
+    {
+        "bikeid": 17494,
+        "time_origin": 1671421038,
+        "lat_origin": 52.470858,
+        "long_origin": 13.444828,
+        "time_destination": 1671421099,
+        "lat_destination": 52.468529,
+        "long_destination": 13.445197
+    },
+    {
+        "bikeid": 17048,
+        "time_origin": 1671004809,
+        "lat_origin": 52.498511,
+        "long_origin": 13.300413,
+        "time_destination": 1671421221,
+        "lat_destination": 52.510969,
+        "long_destination": 13.472681
+    },
+    {
+        "bikeid": 17494,
+        "time_origin": 1671421221,
+        "lat_origin": 52.468529,
+        "long_origin": 13.445197,
+        "time_destination": 1671421282,
+        "lat_destination": 52.470876,
+        "long_destination": 13.444796
+    },
+    {
+        "bikeid": 16231,
+        "time_origin": 1671422685,
+        "lat_origin": 52.519142,
+        "long_origin": 13.355244,
+        "time_destination": 1671422746,
+        "lat_destination": 52.521307,
+        "long_destination": 13.364538
+    },
+    {
+        "bikeid": 16231,
+        "time_origin": 1671422807,
+        "lat_origin": 52.521307,
+        "long_origin": 13.364538,
+        "time_destination": 1671422868,
+        "lat_destination": 52.519711,
+        "long_destination": 13.356399
+    },
+    {
+        "bikeid": 16561,
+        "time_origin": 1669552503,
+        "lat_origin": 52.514631,
+        "long_origin": 13.432408,
+        "time_destination": 1671423661,
+        "lat_destination": 52.497631,
+        "long_destination": 13.514562
+    },
+    {
+        "bikeid": 17663,
+        "time_origin": 1670440517,
+        "lat_origin": 52.537418,
+        "long_origin": 13.398771,
+        "time_destination": 1671424210,
+        "lat_destination": 52.413747,
+        "long_destination": 13.725124
+    },
+    {
+        "bikeid": 15331,
+        "time_origin": 1670728982,
+        "lat_origin": 52.51036,
+        "long_origin": 13.436918,
+        "time_destination": 1671425186,
+        "lat_destination": 52.498209,
+        "long_destination": 13.430537
+    },
+    {
+        "bikeid": 19510,
+        "time_origin": 1671374835,
+        "lat_origin": 52.497356,
+        "long_origin": 13.287406,
+        "time_destination": 1671425186,
+        "lat_destination": 52.492773,
+        "long_destination": 13.314071
+    },
+    {
+        "bikeid": 19510,
+        "time_origin": 1671425186,
+        "lat_origin": 52.492773,
+        "long_origin": 13.314071,
+        "time_destination": 1671425430,
+        "lat_destination": 52.490053,
+        "long_destination": 13.313611
+    },
+    {
+        "bikeid": 10860,
+        "time_origin": 1671426894,
+        "lat_origin": 52.511231,
+        "long_origin": 13.373764,
+        "time_destination": 1671426955,
+        "lat_destination": 52.50932,
+        "long_destination": 13.376212
+    },
+    {
+        "bikeid": 10860,
+        "time_origin": 1671427078,
+        "lat_origin": 52.50932,
+        "long_origin": 13.376212,
+        "time_destination": 1671427138,
+        "lat_destination": 52.511458,
+        "long_destination": 13.374472
+    },
+    {
+        "bikeid": 18913,
+        "time_origin": 1671427078,
+        "lat_origin": 52.488898,
+        "long_origin": 13.376423,
+        "time_destination": 1671427504,
+        "lat_destination": 52.493693,
+        "long_destination": 13.388491
+    },
+    {
+        "bikeid": 14228,
+        "time_origin": 1671428175,
+        "lat_origin": 52.49432,
+        "long_origin": 13.298216,
+        "time_destination": 1671428236,
+        "lat_destination": 52.49708,
+        "long_destination": 13.299432
+    },
+    {
+        "bikeid": 14228,
+        "time_origin": 1671428236,
+        "lat_origin": 52.49708,
+        "long_origin": 13.299432,
+        "time_destination": 1671428297,
+        "lat_destination": 52.494604,
+        "long_destination": 13.298489
+    },
+    {
+        "bikeid": 19747,
+        "time_origin": 1671428236,
+        "lat_origin": 52.475404,
+        "long_origin": 13.443356,
+        "time_destination": 1671428297,
+        "lat_destination": 52.479573,
+        "long_destination": 13.445616
+    },
+    {
+        "bikeid": 16387,
+        "time_origin": 1671428419,
+        "lat_origin": 52.49436,
+        "long_origin": 13.383667,
+        "time_destination": 1671428480,
+        "lat_destination": 52.492804,
+        "long_destination": 13.385356
+    },
+    {
+        "bikeid": 19747,
+        "time_origin": 1671428419,
+        "lat_origin": 52.479573,
+        "long_origin": 13.445616,
+        "time_destination": 1671428480,
+        "lat_destination": 52.475893,
+        "long_destination": 13.443951
+    },
+    {
+        "bikeid": 13652,
+        "time_origin": 1669496850,
+        "lat_origin": 52.472649,
+        "long_origin": 13.308008,
+        "time_destination": 1671428846,
+        "lat_destination": 52.476804,
+        "long_destination": 13.331888
+    },
+    {
+        "bikeid": 14470,
+        "time_origin": 1671396307,
+        "lat_origin": 52.520867,
+        "long_origin": 13.40366,
+        "time_destination": 1671429029,
+        "lat_destination": 52.524982,
+        "long_destination": 13.403094
+    },
+    {
+        "bikeid": 16269,
+        "time_origin": 1671149894,
+        "lat_origin": 52.49636,
+        "long_origin": 13.43901,
+        "time_destination": 1671429517,
+        "lat_destination": 52.48028,
+        "long_destination": 13.446239
+    },
+    {
+        "bikeid": 17254,
+        "time_origin": 1671429456,
+        "lat_origin": 52.500756,
+        "long_origin": 13.410003,
+        "time_destination": 1671429517,
+        "lat_destination": 52.499742,
+        "long_destination": 13.405878
+    },
+    {
+        "bikeid": 17064,
+        "time_origin": 1670584789,
+        "lat_origin": 52.516031,
+        "long_origin": 13.449278,
+        "time_destination": 1671429944,
+        "lat_destination": 52.482924,
+        "long_destination": 13.43771
+    },
+    {
+        "bikeid": 10945,
+        "time_origin": 1671226800,
+        "lat_origin": 52.506436,
+        "long_origin": 13.32307,
+        "time_destination": 1671430188,
+        "lat_destination": 52.525138,
+        "long_destination": 13.369629
+    },
+    {
+        "bikeid": 16214,
+        "time_origin": 1671429090,
+        "lat_origin": 52.511136,
+        "long_origin": 13.444635,
+        "time_destination": 1671430249,
+        "lat_destination": 52.509836,
+        "long_destination": 13.468567
+    },
+    {
+        "bikeid": 13582,
+        "time_origin": 1671429700,
+        "lat_origin": 52.531836,
+        "long_origin": 13.432187,
+        "time_destination": 1671430432,
+        "lat_destination": 52.516293,
+        "long_destination": 13.436068
+    },
+    {
+        "bikeid": 17272,
+        "time_origin": 1671102280,
+        "lat_origin": 52.51992,
+        "long_origin": 13.414439,
+        "time_destination": 1671430432,
+        "lat_destination": 52.513027,
+        "long_destination": 13.406889
+    },
+    {
+        "bikeid": 17722,
+        "time_origin": 1671430493,
+        "lat_origin": 52.486596,
+        "long_origin": 13.452053,
+        "time_destination": 1671430920,
+        "lat_destination": 52.481218,
+        "long_destination": 13.437382
+    },
+    {
+        "bikeid": 19766,
+        "time_origin": 1670484828,
+        "lat_origin": 52.476587,
+        "long_origin": 13.447129,
+        "time_destination": 1671431469,
+        "lat_destination": 52.508876,
+        "long_destination": 13.361611
+    },
+    {
+        "bikeid": 19766,
+        "time_origin": 1671431469,
+        "lat_origin": 52.508876,
+        "long_origin": 13.361611,
+        "time_destination": 1671431530,
+        "lat_destination": 52.503711,
+        "long_destination": 13.365222
+    },
+    {
+        "bikeid": 19597,
+        "time_origin": 1671302283,
+        "lat_origin": 52.4822,
+        "long_origin": 13.425973,
+        "time_destination": 1671431591,
+        "lat_destination": 52.487152,
+        "long_destination": 13.422021
+    },
+    {
+        "bikeid": 33976,
+        "time_origin": 1671202766,
+        "lat_origin": 52.630576,
+        "long_origin": 13.49609,
+        "time_destination": 1671431713,
+        "lat_destination": 52.627278,
+        "long_destination": 13.500345
+    },
+    {
+        "bikeid": 17495,
+        "time_origin": 1670609469,
+        "lat_origin": 52.51268,
+        "long_origin": 13.376989,
+        "time_destination": 1671431835,
+        "lat_destination": 52.484196,
+        "long_destination": 13.371189
+    },
+    {
+        "bikeid": 17495,
+        "time_origin": 1671431835,
+        "lat_origin": 52.484196,
+        "long_origin": 13.371189,
+        "time_destination": 1671431896,
+        "lat_destination": 52.481982,
+        "long_destination": 13.369861
+    },
+    {
+        "bikeid": 17596,
+        "time_origin": 1671232168,
+        "lat_origin": 52.489467,
+        "long_origin": 13.453211,
+        "time_destination": 1671432018,
+        "lat_destination": 52.514427,
+        "long_destination": 13.384979
+    },
+    {
+        "bikeid": 18068,
+        "time_origin": 1671407592,
+        "lat_origin": 52.485142,
+        "long_origin": 13.421383,
+        "time_destination": 1671432018,
+        "lat_destination": 52.488111,
+        "long_destination": 13.422804
+    },
+    {
+        "bikeid": 19269,
+        "time_origin": 1671431957,
+        "lat_origin": 52.523249,
+        "long_origin": 13.349252,
+        "time_destination": 1671432018,
+        "lat_destination": 52.53484,
+        "long_destination": 13.347322
+    },
+    {
+        "bikeid": 17308,
+        "time_origin": 1671431835,
+        "lat_origin": 52.475027,
+        "long_origin": 13.366292,
+        "time_destination": 1671432079,
+        "lat_destination": 52.478551,
+        "long_destination": 13.371409
+    },
+    {
+        "bikeid": 18277,
+        "time_origin": 1671192213,
+        "lat_origin": 52.487658,
+        "long_origin": 13.424486,
+        "time_destination": 1671432140,
+        "lat_destination": 52.484418,
+        "long_destination": 13.422643
+    },
+    {
+        "bikeid": 18277,
+        "time_origin": 1671432201,
+        "lat_origin": 52.484987,
+        "long_origin": 13.422667,
+        "time_destination": 1671432262,
+        "lat_destination": 52.487613,
+        "long_destination": 13.422078
+    },
+    {
+        "bikeid": 16269,
+        "time_origin": 1671429517,
+        "lat_origin": 52.48028,
+        "long_origin": 13.446239,
+        "time_destination": 1671432506,
+        "lat_destination": 52.513827,
+        "long_destination": 13.304688
+    },
+    {
+        "bikeid": 19906,
+        "time_origin": 1671431957,
+        "lat_origin": 52.493733,
+        "long_origin": 13.436468,
+        "time_destination": 1671432567,
+        "lat_destination": 52.494036,
+        "long_destination": 13.411113
+    },
+    {
+        "bikeid": 33983,
+        "time_origin": 1671209659,
+        "lat_origin": 52.633006,
+        "long_origin": 13.495292,
+        "time_destination": 1671432567,
+        "lat_destination": 52.628416,
+        "long_destination": 13.497438
+    },
+    {
+        "bikeid": 15683,
+        "time_origin": 1671432445,
+        "lat_origin": 52.510653,
+        "long_origin": 13.373684,
+        "time_destination": 1671432872,
+        "lat_destination": 52.507667,
+        "long_destination": 13.363668
+    },
+    {
+        "bikeid": 17116,
+        "time_origin": 1671389536,
+        "lat_origin": 52.474667,
+        "long_origin": 13.420804,
+        "time_destination": 1671432994,
+        "lat_destination": 52.493084,
+        "long_destination": 13.321871
+    },
+    {
+        "bikeid": 15790,
+        "time_origin": 1671038481,
+        "lat_origin": 52.495356,
+        "long_origin": 13.424251,
+        "time_destination": 1671433055,
+        "lat_destination": 52.495938,
+        "long_destination": 13.414441
+    },
+    {
+        "bikeid": 16557,
+        "time_origin": 1671395209,
+        "lat_origin": 52.492129,
+        "long_origin": 13.417056,
+        "time_destination": 1671433177,
+        "lat_destination": 52.48548,
+        "long_destination": 13.426544
+    },
+    {
+        "bikeid": 19142,
+        "time_origin": 1671433116,
+        "lat_origin": 52.508644,
+        "long_origin": 13.294279,
+        "time_destination": 1671433177,
+        "lat_destination": 52.51084,
+        "long_destination": 13.293677
+    },
+    {
+        "bikeid": 10969,
+        "time_origin": 1670830450,
+        "lat_origin": 52.511929,
+        "long_origin": 13.280753,
+        "time_destination": 1671433360,
+        "lat_destination": 52.506542,
+        "long_destination": 13.351599
+    },
+    {
+        "bikeid": 17601,
+        "time_origin": 1671123409,
+        "lat_origin": 52.545862,
+        "long_origin": 13.424062,
+        "time_destination": 1671433726,
+        "lat_destination": 52.495484,
+        "long_destination": 13.389331
+    },
+    {
+        "bikeid": 19113,
+        "time_origin": 1671159090,
+        "lat_origin": 52.505404,
+        "long_origin": 13.333233,
+        "time_destination": 1671433970,
+        "lat_destination": 52.513484,
+        "long_destination": 13.397006
+    },
+    {
+        "bikeid": 14397,
+        "time_origin": 1671212648,
+        "lat_origin": 52.502409,
+        "long_origin": 13.307947,
+        "time_destination": 1671434153,
+        "lat_destination": 52.490089,
+        "long_destination": 13.313729
+    },
+    {
+        "bikeid": 16596,
+        "time_origin": 1671308627,
+        "lat_origin": 52.502569,
+        "long_origin": 13.412498,
+        "time_destination": 1671434276,
+        "lat_destination": 52.505609,
+        "long_destination": 13.392684
+    },
+    {
+        "bikeid": 16459,
+        "time_origin": 1671148186,
+        "lat_origin": 52.499253,
+        "long_origin": 13.416299,
+        "time_destination": 1671434337,
+        "lat_destination": 52.486498,
+        "long_destination": 13.42415
+    },
+    {
+        "bikeid": 19483,
+        "time_origin": 1671377885,
+        "lat_origin": 52.522009,
+        "long_origin": 13.416094,
+        "time_destination": 1671434580,
+        "lat_destination": 52.538071,
+        "long_destination": 13.385279
+    },
+    {
+        "bikeid": 15931,
+        "time_origin": 1671376970,
+        "lat_origin": 52.507876,
+        "long_origin": 13.450881,
+        "time_destination": 1671434702,
+        "lat_destination": 52.498324,
+        "long_destination": 13.445697
+    },
+    {
+        "bikeid": 19200,
+        "time_origin": 1671293194,
+        "lat_origin": 52.508302,
+        "long_origin": 13.449927,
+        "time_destination": 1671434702,
+        "lat_destination": 52.499667,
+        "long_destination": 13.444824
+    },
+    {
+        "bikeid": 17006,
+        "time_origin": 1671433421,
+        "lat_origin": 52.527204,
+        "long_origin": 13.333233,
+        "time_destination": 1671434763,
+        "lat_destination": 52.508684,
+        "long_destination": 13.377189
+    },
+    {
+        "bikeid": 17455,
+        "time_origin": 1671179403,
+        "lat_origin": 52.525076,
+        "long_origin": 13.410507,
+        "time_destination": 1671434824,
+        "lat_destination": 52.518244,
+        "long_destination": 13.389846
+    },
+    {
+        "bikeid": 19112,
+        "time_origin": 1671432689,
+        "lat_origin": 52.483347,
+        "long_origin": 13.428784,
+        "time_destination": 1671434946,
+        "lat_destination": 52.505809,
+        "long_destination": 13.325916
+    },
+    {
+        "bikeid": 17527,
+        "time_origin": 1671435008,
+        "lat_origin": 52.517298,
+        "long_origin": 13.390828,
+        "time_destination": 1671435068,
+        "lat_destination": 52.514022,
+        "long_destination": 13.404631
+    },
+    {
+        "bikeid": 10980,
+        "time_origin": 1669817803,
+        "lat_origin": 52.531271,
+        "long_origin": 13.412272,
+        "time_destination": 1671435129,
+        "lat_destination": 52.510978,
+        "long_destination": 13.377171
+    },
+    {
+        "bikeid": 19788,
+        "time_origin": 1670944580,
+        "lat_origin": 52.540031,
+        "long_origin": 13.387507,
+        "time_destination": 1671435129,
+        "lat_destination": 52.530747,
+        "long_destination": 13.400788
+    },
+    {
+        "bikeid": 15695,
+        "time_origin": 1671434580,
+        "lat_origin": 52.531453,
+        "long_origin": 13.438048,
+        "time_destination": 1671435190,
+        "lat_destination": 52.520924,
+        "long_destination": 13.412789
+    },
+    {
+        "bikeid": 16144,
+        "time_origin": 1670650879,
+        "lat_origin": 52.540778,
+        "long_origin": 13.413663,
+        "time_destination": 1671435251,
+        "lat_destination": 52.511387,
+        "long_destination": 13.395593
+    },
+    {
+        "bikeid": 17927,
+        "time_origin": 1671025366,
+        "lat_origin": 52.5218,
+        "long_origin": 13.390332,
+        "time_destination": 1671435312,
+        "lat_destination": 52.522813,
+        "long_destination": 13.415287
+    },
+    {
+        "bikeid": 17495,
+        "time_origin": 1671434824,
+        "lat_origin": 52.481982,
+        "long_origin": 13.369861,
+        "time_destination": 1671435435,
+        "lat_destination": 52.477582,
+        "long_destination": 13.376452
+    },
+    {
+        "bikeid": 15565,
+        "time_origin": 1671435435,
+        "lat_origin": 52.526196,
+        "long_origin": 13.413538,
+        "time_destination": 1671435495,
+        "lat_destination": 52.525844,
+        "long_destination": 13.416892
+    },
+    {
+        "bikeid": 19310,
+        "time_origin": 1671288070,
+        "lat_origin": 52.52376,
+        "long_origin": 13.369291,
+        "time_destination": 1671435495,
+        "lat_destination": 52.513987,
+        "long_destination": 13.391122
+    },
+    {
+        "bikeid": 18009,
+        "time_origin": 1671098011,
+        "lat_origin": 52.494484,
+        "long_origin": 13.434416,
+        "time_destination": 1671435739,
+        "lat_destination": 52.499022,
+        "long_destination": 13.427602
+    },
+    {
+        "bikeid": 17390,
+        "time_origin": 1671214234,
+        "lat_origin": 52.483498,
+        "long_origin": 13.446851,
+        "time_destination": 1671435800,
+        "lat_destination": 52.51964,
+        "long_destination": 13.412493
+    },
+    {
+        "bikeid": 15447,
+        "time_origin": 1669889112,
+        "lat_origin": 52.518831,
+        "long_origin": 13.284312,
+        "time_destination": 1671435861,
+        "lat_destination": 52.514209,
+        "long_destination": 13.389079
+    },
+    {
+        "bikeid": 15964,
+        "time_origin": 1671237109,
+        "lat_origin": 52.485978,
+        "long_origin": 13.394106,
+        "time_destination": 1671435983,
+        "lat_destination": 52.484449,
+        "long_destination": 13.368789
+    },
+    {
+        "bikeid": 15277,
+        "time_origin": 1671435068,
+        "lat_origin": 52.480436,
+        "long_origin": 13.447356,
+        "time_destination": 1671436044,
+        "lat_destination": 52.503076,
+        "long_destination": 13.413766
+    },
+    {
+        "bikeid": 15968,
+        "time_origin": 1671043312,
+        "lat_origin": 52.459373,
+        "long_origin": 13.372586,
+        "time_destination": 1671436106,
+        "lat_destination": 52.503849,
+        "long_destination": 13.391722
+    },
+    {
+        "bikeid": 19784,
+        "time_origin": 1671435678,
+        "lat_origin": 52.519213,
+        "long_origin": 13.41219,
+        "time_destination": 1671436227,
+        "lat_destination": 52.512773,
+        "long_destination": 13.39573
+    },
+    {
+        "bikeid": 18540,
+        "time_origin": 1671375262,
+        "lat_origin": 52.523302,
+        "long_origin": 13.346134,
+        "time_destination": 1671436350,
+        "lat_destination": 52.508431,
+        "long_destination": 13.372304
+    },
+    {
+        "bikeid": 19480,
+        "time_origin": 1671435861,
+        "lat_origin": 52.5024,
+        "long_origin": 13.469646,
+        "time_destination": 1671436410,
+        "lat_destination": 52.499902,
+        "long_destination": 13.455083
+    },
+    {
+        "bikeid": 18970,
+        "time_origin": 1671168484,
+        "lat_origin": 52.501516,
+        "long_origin": 13.316708,
+        "time_destination": 1671436471,
+        "lat_destination": 52.502489,
+        "long_destination": 13.313208
+    },
+    {
+        "bikeid": 18528,
+        "time_origin": 1671436471,
+        "lat_origin": 52.509644,
+        "long_origin": 13.460394,
+        "time_destination": 1671436532,
+        "lat_destination": 52.508547,
+        "long_destination": 13.463171
+    },
+    {
+        "bikeid": 17722,
+        "time_origin": 1671436288,
+        "lat_origin": 52.48148,
+        "long_origin": 13.437287,
+        "time_destination": 1671436593,
+        "lat_destination": 52.4872,
+        "long_destination": 13.436792
+    },
+    {
+        "bikeid": 19453,
+        "time_origin": 1671435435,
+        "lat_origin": 52.502382,
+        "long_origin": 13.452703,
+        "time_destination": 1671436593,
+        "lat_destination": 52.524307,
+        "long_destination": 13.406661
+    },
+    {
+        "bikeid": 17794,
+        "time_origin": 1671374347,
+        "lat_origin": 52.50712,
+        "long_origin": 13.332979,
+        "time_destination": 1671436654,
+        "lat_destination": 52.516787,
+        "long_destination": 13.326823
+    },
+    {
+        "bikeid": 19758,
+        "time_origin": 1671390756,
+        "lat_origin": 52.547227,
+        "long_origin": 13.418557,
+        "time_destination": 1671436654,
+        "lat_destination": 52.547542,
+        "long_destination": 13.409548
+    },
+    {
+        "bikeid": 15661,
+        "time_origin": 1671435495,
+        "lat_origin": 52.519422,
+        "long_origin": 13.355592,
+        "time_destination": 1671436898,
+        "lat_destination": 52.491511,
+        "long_destination": 13.38692
+    },
+    {
+        "bikeid": 15932,
+        "time_origin": 1671374408,
+        "lat_origin": 52.504213,
+        "long_origin": 13.399853,
+        "time_destination": 1671436898,
+        "lat_destination": 52.530676,
+        "long_destination": 13.411557
+    },
+    {
+        "bikeid": 15560,
+        "time_origin": 1671210086,
+        "lat_origin": 52.502671,
+        "long_origin": 13.430892,
+        "time_destination": 1671436959,
+        "lat_destination": 52.495222,
+        "long_destination": 13.433653
+    },
+    {
+        "bikeid": 19251,
+        "time_origin": 1671323145,
+        "lat_origin": 52.520609,
+        "long_origin": 13.44716,
+        "time_destination": 1671436959,
+        "lat_destination": 52.508871,
+        "long_destination": 13.39868
+    },
+    {
+        "bikeid": 19554,
+        "time_origin": 1671314422,
+        "lat_origin": 52.522182,
+        "long_origin": 13.349063,
+        "time_destination": 1671437020,
+        "lat_destination": 52.511418,
+        "long_destination": 13.397924
+    },
+    {
+        "bikeid": 16962,
+        "time_origin": 1671402285,
+        "lat_origin": 52.568049,
+        "long_origin": 13.321519,
+        "time_destination": 1671437081,
+        "lat_destination": 52.56556,
+        "long_destination": 13.327254
+    },
+    {
+        "bikeid": 15461,
+        "time_origin": 1669883378,
+        "lat_origin": 52.507813,
+        "long_origin": 13.398053,
+        "time_destination": 1671437142,
+        "lat_destination": 52.487973,
+        "long_destination": 13.430574
+    },
+    {
+        "bikeid": 19012,
+        "time_origin": 1671087823,
+        "lat_origin": 52.517911,
+        "long_origin": 13.415648,
+        "time_destination": 1671437142,
+        "lat_destination": 52.499391,
+        "long_destination": 13.362278
+    },
+    {
+        "bikeid": 18263,
+        "time_origin": 1670646182,
+        "lat_origin": 52.526116,
+        "long_origin": 13.343461,
+        "time_destination": 1671437265,
+        "lat_destination": 52.524013,
+        "long_destination": 13.408918
+    },
+    {
+        "bikeid": 17462,
+        "time_origin": 1671436959,
+        "lat_origin": 52.53492,
+        "long_origin": 13.39798,
+        "time_destination": 1671437325,
+        "lat_destination": 52.52936,
+        "long_destination": 13.396519
+    },
+    {
+        "bikeid": 17554,
+        "time_origin": 1671381850,
+        "lat_origin": 52.546631,
+        "long_origin": 13.427399,
+        "time_destination": 1671437325,
+        "lat_destination": 52.527502,
+        "long_destination": 13.38008
+    },
+    {
+        "bikeid": 19258,
+        "time_origin": 1671373798,
+        "lat_origin": 52.535547,
+        "long_origin": 13.40518,
+        "time_destination": 1671437386,
+        "lat_destination": 52.52244,
+        "long_destination": 13.386436
+    },
+    {
+        "bikeid": 16089,
+        "time_origin": 1671175072,
+        "lat_origin": 52.524836,
+        "long_origin": 13.401062,
+        "time_destination": 1671437447,
+        "lat_destination": 52.518369,
+        "long_destination": 13.41155
+    },
+    {
+        "bikeid": 19215,
+        "time_origin": 1671437447,
+        "lat_origin": 52.5232,
+        "long_origin": 13.412578,
+        "time_destination": 1671437508,
+        "lat_destination": 52.522062,
+        "long_destination": 13.415849
+    },
+    {
+        "bikeid": 14397,
+        "time_origin": 1671434337,
+        "lat_origin": 52.490089,
+        "long_origin": 13.313729,
+        "time_destination": 1671437691,
+        "lat_destination": 52.474991,
+        "long_destination": 13.37116
+    },
+    {
+        "bikeid": 18815,
+        "time_origin": 1671437630,
+        "lat_origin": 52.502653,
+        "long_origin": 13.467852,
+        "time_destination": 1671437691,
+        "lat_destination": 52.506324,
+        "long_destination": 13.468221
+    },
+    {
+        "bikeid": 18454,
+        "time_origin": 1669385452,
+        "lat_origin": 52.501782,
+        "long_origin": 13.366877,
+        "time_destination": 1671437753,
+        "lat_destination": 52.523196,
+        "long_destination": 13.34927
+    },
+    {
+        "bikeid": 14725,
+        "time_origin": 1671437569,
+        "lat_origin": 52.488111,
+        "long_origin": 13.430337,
+        "time_destination": 1671437935,
+        "lat_destination": 52.481893,
+        "long_destination": 13.440358
+    },
+    {
+        "bikeid": 18815,
+        "time_origin": 1671437691,
+        "lat_origin": 52.506324,
+        "long_origin": 13.468221,
+        "time_destination": 1671437935,
+        "lat_destination": 52.502564,
+        "long_destination": 13.467844
+    },
+    {
+        "bikeid": 16564,
+        "time_origin": 1671437691,
+        "lat_origin": 52.526773,
+        "long_origin": 13.36939,
+        "time_destination": 1671437996,
+        "lat_destination": 52.532609,
+        "long_destination": 13.366597
+    },
+    {
+        "bikeid": 17388,
+        "time_origin": 1671222957,
+        "lat_origin": 52.533627,
+        "long_origin": 13.421579,
+        "time_destination": 1671438118,
+        "lat_destination": 52.529196,
+        "long_destination": 13.379653
+    },
+    {
+        "bikeid": 18083,
+        "time_origin": 1671392220,
+        "lat_origin": 52.483507,
+        "long_origin": 13.442297,
+        "time_destination": 1671438240,
+        "lat_destination": 52.512191,
+        "long_destination": 13.457066
+    },
+    {
+        "bikeid": 16816,
+        "time_origin": 1670927866,
+        "lat_origin": 52.492684,
+        "long_origin": 13.422956,
+        "time_destination": 1671438301,
+        "lat_destination": 52.498267,
+        "long_destination": 13.447222
+    },
+    {
+        "bikeid": 16749,
+        "time_origin": 1671437996,
+        "lat_origin": 52.48716,
+        "long_origin": 13.436967,
+        "time_destination": 1671438362,
+        "lat_destination": 52.481547,
+        "long_destination": 13.437794
+    },
+    {
+        "bikeid": 14366,
+        "time_origin": 1671093984,
+        "lat_origin": 52.487849,
+        "long_origin": 13.446553,
+        "time_destination": 1671438423,
+        "lat_destination": 52.483293,
+        "long_destination": 13.446548
+    },
+    {
+        "bikeid": 16594,
+        "time_origin": 1671196239,
+        "lat_origin": 52.477244,
+        "long_origin": 13.438678,
+        "time_destination": 1671438423,
+        "lat_destination": 52.483698,
+        "long_destination": 13.437152
+    },
+    {
+        "bikeid": 17265,
+        "time_origin": 1671087091,
+        "lat_origin": 52.52972,
+        "long_origin": 13.403264,
+        "time_destination": 1671438423,
+        "lat_destination": 52.526316,
+        "long_destination": 13.393277
+    },
+    {
+        "bikeid": 17328,
+        "time_origin": 1670993402,
+        "lat_origin": 52.529556,
+        "long_origin": 13.395239,
+        "time_destination": 1671438423,
+        "lat_destination": 52.476187,
+        "long_destination": 13.366806
+    },
+    {
+        "bikeid": 33965,
+        "time_origin": 1670866818,
+        "lat_origin": 52.625153,
+        "long_origin": 13.503969,
+        "time_destination": 1671438423,
+        "lat_destination": 52.633958,
+        "long_destination": 13.49292
+    },
+    {
+        "bikeid": 19606,
+        "time_origin": 1670159198,
+        "lat_origin": 52.513938,
+        "long_origin": 13.396262,
+        "time_destination": 1671438484,
+        "lat_destination": 52.500022,
+        "long_destination": 13.435809
+    },
+    {
+        "bikeid": 15769,
+        "time_origin": 1670718589,
+        "lat_origin": 52.525342,
+        "long_origin": 13.429311,
+        "time_destination": 1671438545,
+        "lat_destination": 52.50268,
+        "long_destination": 13.413237
+    },
+    {
+        "bikeid": 16936,
+        "time_origin": 1671438667,
+        "lat_origin": 52.542587,
+        "long_origin": 13.064189,
+        "time_destination": 1671438728,
+        "lat_destination": 52.52508,
+        "long_destination": 13.343856
+    },
+    {
+        "bikeid": 19299,
+        "time_origin": 1671437630,
+        "lat_origin": 52.513262,
+        "long_origin": 13.456421,
+        "time_destination": 1671438728,
+        "lat_destination": 52.521427,
+        "long_destination": 13.402993
+    },
+    {
+        "bikeid": 19675,
+        "time_origin": 1670949338,
+        "lat_origin": 52.52104,
+        "long_origin": 13.414838,
+        "time_destination": 1671438728,
+        "lat_destination": 52.528329,
+        "long_destination": 13.37794
+    },
+    {
+        "bikeid": 19484,
+        "time_origin": 1671006639,
+        "lat_origin": 52.538809,
+        "long_origin": 13.396637,
+        "time_destination": 1671438911,
+        "lat_destination": 52.532658,
+        "long_destination": 13.413389
+    },
+    {
+        "bikeid": 17329,
+        "time_origin": 1671371236,
+        "lat_origin": 52.505329,
+        "long_origin": 13.398379,
+        "time_destination": 1671439094,
+        "lat_destination": 52.526538,
+        "long_destination": 13.38983
+    },
+    {
+        "bikeid": 15727,
+        "time_origin": 1671268001,
+        "lat_origin": 52.50472,
+        "long_origin": 13.448118,
+        "time_destination": 1671439155,
+        "lat_destination": 52.507764,
+        "long_destination": 13.390531
+    },
+    {
+        "bikeid": 17048,
+        "time_origin": 1671421404,
+        "lat_origin": 52.509871,
+        "long_origin": 13.473037,
+        "time_destination": 1671439216,
+        "lat_destination": 52.506044,
+        "long_destination": 13.47185
+    },
+    {
+        "bikeid": 17809,
+        "time_origin": 1671439155,
+        "lat_origin": 52.549022,
+        "long_origin": 13.36233,
+        "time_destination": 1671439216,
+        "lat_destination": 52.550938,
+        "long_destination": 13.362913
+    },
+    {
+        "bikeid": 15625,
+        "time_origin": 1671400272,
+        "lat_origin": 52.495498,
+        "long_origin": 13.427031,
+        "time_destination": 1671439277,
+        "lat_destination": 52.496453,
+        "long_destination": 13.420502
+    },
+    {
+        "bikeid": 17048,
+        "time_origin": 1671439216,
+        "lat_origin": 52.506044,
+        "long_origin": 13.47185,
+        "time_destination": 1671439277,
+        "lat_destination": 52.50128,
+        "long_destination": 13.47045
+    },
+    {
+        "bikeid": 19124,
+        "time_origin": 1671287765,
+        "lat_origin": 52.527947,
+        "long_origin": 13.394017,
+        "time_destination": 1671439399,
+        "lat_destination": 52.49384,
+        "long_destination": 13.334829
+    },
+    {
+        "bikeid": 18089,
+        "time_origin": 1670935247,
+        "lat_origin": 52.512831,
+        "long_origin": 13.424449,
+        "time_destination": 1671439826,
+        "lat_destination": 52.511107,
+        "long_destination": 13.421626
+    },
+    {
+        "bikeid": 16516,
+        "time_origin": 1671033723,
+        "lat_origin": 52.518204,
+        "long_origin": 13.388727,
+        "time_destination": 1671439887,
+        "lat_destination": 52.502276,
+        "long_destination": 13.414459
+    },
+    {
+        "bikeid": 19711,
+        "time_origin": 1668853907,
+        "lat_origin": 52.493204,
+        "long_origin": 13.423548,
+        "time_destination": 1671440010,
+        "lat_destination": 52.529818,
+        "long_destination": 13.431789
+    },
+    {
+        "bikeid": 16439,
+        "time_origin": 1671440010,
+        "lat_origin": 52.527173,
+        "long_origin": 13.367151,
+        "time_destination": 1671440071,
+        "lat_destination": 52.531853,
+        "long_destination": 13.364836
+    },
+    {
+        "bikeid": 16439,
+        "time_origin": 1671440071,
+        "lat_origin": 52.531853,
+        "long_origin": 13.364836,
+        "time_destination": 1671440131,
+        "lat_destination": 52.527547,
+        "long_destination": 13.366996
+    },
+    {
+        "bikeid": 16716,
+        "time_origin": 1671439460,
+        "lat_origin": 52.510751,
+        "long_origin": 13.42166,
+        "time_destination": 1671440192,
+        "lat_destination": 52.526222,
+        "long_destination": 13.414579
+    },
+    {
+        "bikeid": 10900,
+        "time_origin": 1671190200,
+        "lat_origin": 52.530729,
+        "long_origin": 13.362197,
+        "time_destination": 1671440436,
+        "lat_destination": 52.500071,
+        "long_destination": 13.350943
+    },
+    {
+        "bikeid": 13051,
+        "time_origin": 1671389841,
+        "lat_origin": 52.530347,
+        "long_origin": 13.395021,
+        "time_destination": 1671440558,
+        "lat_destination": 52.497169,
+        "long_destination": 13.430544
+    },
+    {
+        "bikeid": 19242,
+        "time_origin": 1670456865,
+        "lat_origin": 52.52832,
+        "long_origin": 13.391324,
+        "time_destination": 1671440558,
+        "lat_destination": 52.515547,
+        "long_destination": 13.406221
+    },
+    {
+        "bikeid": 19468,
+        "time_origin": 1671287765,
+        "lat_origin": 52.497538,
+        "long_origin": 13.428991,
+        "time_destination": 1671440619,
+        "lat_destination": 52.525987,
+        "long_destination": 13.400041
+    },
+    {
+        "bikeid": 14184,
+        "time_origin": 1669902209,
+        "lat_origin": 52.514982,
+        "long_origin": 13.336198,
+        "time_destination": 1671440680,
+        "lat_destination": 52.524218,
+        "long_destination": 13.400326
+    },
+    {
+        "bikeid": 19613,
+        "time_origin": 1671203193,
+        "lat_origin": 52.523738,
+        "long_origin": 13.368801,
+        "time_destination": 1671440680,
+        "lat_destination": 52.531511,
+        "long_destination": 13.351719
+    },
+    {
+        "bikeid": 16652,
+        "time_origin": 1671293865,
+        "lat_origin": 52.520987,
+        "long_origin": 13.414773,
+        "time_destination": 1671440802,
+        "lat_destination": 52.524667,
+        "long_destination": 13.417841
+    },
+    {
+        "bikeid": 17952,
+        "time_origin": 1671439277,
+        "lat_origin": 52.523502,
+        "long_origin": 13.37961,
+        "time_destination": 1671440802,
+        "lat_destination": 52.524587,
+        "long_destination": 13.387987
+    },
+    {
+        "bikeid": 17329,
+        "time_origin": 1671440680,
+        "lat_origin": 52.526613,
+        "long_origin": 13.389819,
+        "time_destination": 1671440985,
+        "lat_destination": 52.531609,
+        "long_destination": 13.39421
+    },
+    {
+        "bikeid": 18330,
+        "time_origin": 1671440802,
+        "lat_origin": 52.486889,
+        "long_origin": 13.390519,
+        "time_destination": 1671441107,
+        "lat_destination": 52.486249,
+        "long_destination": 13.3863
+    },
+    {
+        "bikeid": 19301,
+        "time_origin": 1671441107,
+        "lat_origin": 52.512071,
+        "long_origin": 13.404909,
+        "time_destination": 1671441168,
+        "lat_destination": 52.514173,
+        "long_destination": 13.402179
+    },
+    {
+        "bikeid": 18821,
+        "time_origin": 1670778026,
+        "lat_origin": 52.475596,
+        "long_origin": 13.449093,
+        "time_destination": 1671441290,
+        "lat_destination": 52.515991,
+        "long_destination": 13.457112
+    },
+    {
+        "bikeid": 18462,
+        "time_origin": 1670352889,
+        "lat_origin": 52.527124,
+        "long_origin": 13.403284,
+        "time_destination": 1671441352,
+        "lat_destination": 52.556044,
+        "long_destination": 13.386256
+    },
+    {
+        "bikeid": 16778,
+        "time_origin": 1671219785,
+        "lat_origin": 52.504596,
+        "long_origin": 13.358271,
+        "time_destination": 1671441412,
+        "lat_destination": 52.510311,
+        "long_destination": 13.378038
+    },
+    {
+        "bikeid": 16970,
+        "time_origin": 1671392403,
+        "lat_origin": 52.493351,
+        "long_origin": 13.386416,
+        "time_destination": 1671441473,
+        "lat_destination": 52.480227,
+        "long_destination": 13.439791
+    },
+    {
+        "bikeid": 19892,
+        "time_origin": 1671441107,
+        "lat_origin": 52.490107,
+        "long_origin": 13.41324,
+        "time_destination": 1671441473,
+        "lat_destination": 52.485538,
+        "long_destination": 13.423982
+    },
+    {
+        "bikeid": 19206,
+        "time_origin": 1671204230,
+        "lat_origin": 52.498089,
+        "long_origin": 13.396353,
+        "time_destination": 1671441534,
+        "lat_destination": 52.497378,
+        "long_destination": 13.365783
+    },
+    {
+        "bikeid": 10869,
+        "time_origin": 1671188004,
+        "lat_origin": 52.514956,
+        "long_origin": 13.336367,
+        "time_destination": 1671441595,
+        "lat_destination": 52.53072,
+        "long_destination": 13.337699
+    },
+    {
+        "bikeid": 19516,
+        "time_origin": 1671399663,
+        "lat_origin": 52.529453,
+        "long_origin": 13.40588,
+        "time_destination": 1671441595,
+        "lat_destination": 52.526467,
+        "long_destination": 13.398946
+    },
+    {
+        "bikeid": 19774,
+        "time_origin": 1670831670,
+        "lat_origin": 52.479671,
+        "long_origin": 13.449239,
+        "time_destination": 1671441595,
+        "lat_destination": 52.477498,
+        "long_destination": 13.424846
+    },
+    {
+        "bikeid": 18027,
+        "time_origin": 1670247864,
+        "lat_origin": 52.461956,
+        "long_origin": 13.433882,
+        "time_destination": 1671441717,
+        "lat_destination": 52.506662,
+        "long_destination": 13.390914
+    },
+    {
+        "bikeid": 18947,
+        "time_origin": 1671441717,
+        "lat_origin": 52.551773,
+        "long_origin": 13.383181,
+        "time_destination": 1671441778,
+        "lat_destination": 52.553933,
+        "long_destination": 13.384564
+    },
+    {
+        "bikeid": 13137,
+        "time_origin": 1670241276,
+        "lat_origin": 52.481524,
+        "long_origin": 13.289059,
+        "time_destination": 1671441961,
+        "lat_destination": 52.505062,
+        "long_destination": 13.334271
+    },
+    {
+        "bikeid": 17663,
+        "time_origin": 1671442083,
+        "lat_origin": 52.413747,
+        "long_origin": 13.725124,
+        "time_destination": 1671442144,
+        "lat_destination": 52.50968,
+        "long_destination": 13.457704
+    },
+    {
+        "bikeid": 19862,
+        "time_origin": 1671047826,
+        "lat_origin": 52.486613,
+        "long_origin": 13.374464,
+        "time_destination": 1671442205,
+        "lat_destination": 52.507631,
+        "long_destination": 13.378858
+    },
+    {
+        "bikeid": 18180,
+        "time_origin": 1671130618,
+        "lat_origin": 52.509436,
+        "long_origin": 13.377899,
+        "time_destination": 1671442571,
+        "lat_destination": 52.503849,
+        "long_destination": 13.432159
+    },
+    {
+        "bikeid": 18027,
+        "time_origin": 1671442144,
+        "lat_origin": 52.506844,
+        "long_origin": 13.390796,
+        "time_destination": 1671442754,
+        "lat_destination": 52.508,
+        "long_destination": 13.370376
+    },
+    {
+        "bikeid": 16600,
+        "time_origin": 1670694494,
+        "lat_origin": 52.505471,
+        "long_origin": 13.443393,
+        "time_destination": 1671442815,
+        "lat_destination": 52.476333,
+        "long_destination": 13.366573
+    },
+    {
+        "bikeid": 17950,
+        "time_origin": 1671442815,
+        "lat_origin": 52.503524,
+        "long_origin": 13.34715,
+        "time_destination": 1671443120,
+        "lat_destination": 52.503253,
+        "long_destination": 13.342854
+    },
+    {
+        "bikeid": 17950,
+        "time_origin": 1671443120,
+        "lat_origin": 52.503253,
+        "long_origin": 13.342854,
+        "time_destination": 1671443181,
+        "lat_destination": 52.50376,
+        "long_destination": 13.347152
+    },
+    {
+        "bikeid": 17101,
+        "time_origin": 1670871820,
+        "lat_origin": 52.513951,
+        "long_origin": 13.415899,
+        "time_destination": 1671443303,
+        "lat_destination": 52.54064,
+        "long_destination": 13.388739
+    },
+    {
+        "bikeid": 15432,
+        "time_origin": 1671374896,
+        "lat_origin": 52.491844,
+        "long_origin": 13.41682,
+        "time_destination": 1671443364,
+        "lat_destination": 52.498693,
+        "long_destination": 13.378068
+    },
+    {
+        "bikeid": 15503,
+        "time_origin": 1671442632,
+        "lat_origin": 52.52404,
+        "long_origin": 13.370577,
+        "time_destination": 1671443364,
+        "lat_destination": 52.509867,
+        "long_destination": 13.351591
+    },
+    {
+        "bikeid": 10942,
+        "time_origin": 1671214539,
+        "lat_origin": 52.502742,
+        "long_origin": 13.406749,
+        "time_destination": 1671443425,
+        "lat_destination": 52.503302,
+        "long_destination": 13.410531
+    },
+    {
+        "bikeid": 18688,
+        "time_origin": 1671234243,
+        "lat_origin": 52.514382,
+        "long_origin": 13.418072,
+        "time_destination": 1671443486,
+        "lat_destination": 52.527689,
+        "long_destination": 13.403066
+    },
+    {
+        "bikeid": 19698,
+        "time_origin": 1671442876,
+        "lat_origin": 52.514169,
+        "long_origin": 13.416782,
+        "time_destination": 1671443486,
+        "lat_destination": 52.511547,
+        "long_destination": 13.39679
+    },
+    {
+        "bikeid": 19373,
+        "time_origin": 1671390695,
+        "lat_origin": 52.520311,
+        "long_origin": 13.300597,
+        "time_destination": 1671443547,
+        "lat_destination": 52.524013,
+        "long_destination": 13.330062
+    },
+    {
+        "bikeid": 15790,
+        "time_origin": 1671433055,
+        "lat_origin": 52.495938,
+        "long_origin": 13.414441,
+        "time_destination": 1671443791,
+        "lat_destination": 52.485969,
+        "long_destination": 13.422408
+    },
+    {
+        "bikeid": 19999,
+        "time_origin": 1671168179,
+        "lat_origin": 52.549853,
+        "long_origin": 13.366028,
+        "time_destination": 1671443791,
+        "lat_destination": 52.51684,
+        "long_destination": 13.381086
+    },
+    {
+        "bikeid": 16712,
+        "time_origin": 1670860535,
+        "lat_origin": 52.512209,
+        "long_origin": 13.391251,
+        "time_destination": 1671443913,
+        "lat_destination": 52.517098,
+        "long_destination": 13.381134
+    },
+    {
+        "bikeid": 19248,
+        "time_origin": 1670765399,
+        "lat_origin": 52.541031,
+        "long_origin": 13.370197,
+        "time_destination": 1671443913,
+        "lat_destination": 52.536996,
+        "long_destination": 13.421012
+    },
+    {
+        "bikeid": 15674,
+        "time_origin": 1670545265,
+        "lat_origin": 52.522009,
+        "long_origin": 13.392867,
+        "time_destination": 1671444157,
+        "lat_destination": 52.512071,
+        "long_destination": 13.410992
+    },
+    {
+        "bikeid": 17767,
+        "time_origin": 1671443425,
+        "lat_origin": 52.52928,
+        "long_origin": 13.390577,
+        "time_destination": 1671444157,
+        "lat_destination": 52.536333,
+        "long_destination": 13.369808
+    },
+    {
+        "bikeid": 19346,
+        "time_origin": 1671441473,
+        "lat_origin": 52.549764,
+        "long_origin": 13.295866,
+        "time_destination": 1671444218,
+        "lat_destination": 52.55764,
+        "long_destination": 13.341443
+    },
+    {
+        "bikeid": 13956,
+        "time_origin": 1671356779,
+        "lat_origin": 52.531422,
+        "long_origin": 13.382957,
+        "time_destination": 1671444279,
+        "lat_destination": 52.522089,
+        "long_destination": 13.40178
+    },
+    {
+        "bikeid": 19892,
+        "time_origin": 1671443303,
+        "lat_origin": 52.485604,
+        "long_origin": 13.423883,
+        "time_destination": 1671444340,
+        "lat_destination": 52.490707,
+        "long_destination": 13.379563
+    },
+    {
+        "bikeid": 17873,
+        "time_origin": 1671359890,
+        "lat_origin": 52.521427,
+        "long_origin": 13.334452,
+        "time_destination": 1671444402,
+        "lat_destination": 52.520996,
+        "long_destination": 13.328074
+    },
+    {
+        "bikeid": 17014,
+        "time_origin": 1670610933,
+        "lat_origin": 52.485907,
+        "long_origin": 13.334257,
+        "time_destination": 1671444585,
+        "lat_destination": 52.51744,
+        "long_destination": 13.419222
+    },
+    {
+        "bikeid": 15847,
+        "time_origin": 1670881192,
+        "lat_origin": 52.503311,
+        "long_origin": 13.383807,
+        "time_destination": 1671444767,
+        "lat_destination": 52.524569,
+        "long_destination": 13.388121
+    },
+    {
+        "bikeid": 19758,
+        "time_origin": 1671444157,
+        "lat_origin": 52.547378,
+        "long_origin": 13.409516,
+        "time_destination": 1671444767,
+        "lat_destination": 52.535782,
+        "long_destination": 13.42101
+    },
+    {
+        "bikeid": 19313,
+        "time_origin": 1670698215,
+        "lat_origin": 52.526236,
+        "long_origin": 13.378837,
+        "time_destination": 1671444828,
+        "lat_destination": 52.537542,
+        "long_destination": 13.373786
+    },
+    {
+        "bikeid": 19313,
+        "time_origin": 1671444828,
+        "lat_origin": 52.537542,
+        "long_origin": 13.373786,
+        "time_destination": 1671444950,
+        "lat_destination": 52.536182,
+        "long_destination": 13.375844
+    },
+    {
+        "bikeid": 10989,
+        "time_origin": 1669571718,
+        "lat_origin": 52.535831,
+        "long_origin": 13.409677,
+        "time_destination": 1671445134,
+        "lat_destination": 52.49576,
+        "long_destination": 13.427502
+    },
+    {
+        "bikeid": 19380,
+        "time_origin": 1671126714,
+        "lat_origin": 52.497902,
+        "long_origin": 13.393001,
+        "time_destination": 1671445134,
+        "lat_destination": 52.491707,
+        "long_destination": 13.387427
+    },
+    {
+        "bikeid": 17340,
+        "time_origin": 1671443974,
+        "lat_origin": 52.527564,
+        "long_origin": 13.389559,
+        "time_destination": 1671445255,
+        "lat_destination": 52.534627,
+        "long_destination": 13.343432
+    },
+    {
+        "bikeid": 16324,
+        "time_origin": 1671242504,
+        "lat_origin": 14.502005,
+        "long_origin": 121.021332,
+        "time_destination": 1671445316,
+        "lat_destination": 52.523884,
+        "long_destination": 13.369433
+    },
+    {
+        "bikeid": 17395,
+        "time_origin": 1671442144,
+        "lat_origin": 52.491987,
+        "long_origin": 13.445782,
+        "time_destination": 1671445316,
+        "lat_destination": 52.540182,
+        "long_destination": 13.406492
+    },
+    {
+        "bikeid": 15767,
+        "time_origin": 1671395453,
+        "lat_origin": 52.513809,
+        "long_origin": 13.474692,
+        "time_destination": 1671445377,
+        "lat_destination": 52.514902,
+        "long_destination": 13.469152
+    },
+    {
+        "bikeid": 19408,
+        "time_origin": 1671222225,
+        "lat_origin": 52.509871,
+        "long_origin": 13.502196,
+        "time_destination": 1671445500,
+        "lat_destination": 52.513818,
+        "long_destination": 13.501809
+    },
+    {
+        "bikeid": 17123,
+        "time_origin": 1670922498,
+        "lat_origin": 52.527364,
+        "long_origin": 13.362486,
+        "time_destination": 1671445560,
+        "lat_destination": 52.512467,
+        "long_destination": 13.410348
+    },
+    {
+        "bikeid": 15767,
+        "time_origin": 1671445560,
+        "lat_origin": 52.51444,
+        "long_origin": 13.469621,
+        "time_destination": 1671445743,
+        "lat_destination": 52.513964,
+        "long_destination": 13.474703
+    },
+    {
+        "bikeid": 19408,
+        "time_origin": 1671445682,
+        "lat_origin": 52.513462,
+        "long_origin": 13.501642,
+        "time_destination": 1671445743,
+        "lat_destination": 52.510218,
+        "long_destination": 13.501382
+    },
+    {
+        "bikeid": 15700,
+        "time_origin": 1669741347,
+        "lat_origin": 52.541569,
+        "long_origin": 13.389804,
+        "time_destination": 1671445987,
+        "lat_destination": 52.509302,
+        "long_destination": 13.37891
+    },
+    {
+        "bikeid": 16945,
+        "time_origin": 1671446170,
+        "lat_origin": 52.510862,
+        "long_origin": 13.392122,
+        "time_destination": 1671446231,
+        "lat_destination": 52.506102,
+        "long_destination": 13.392012
+    },
+    {
+        "bikeid": 15882,
+        "time_origin": 1671446536,
+        "lat_origin": 52.495778,
+        "long_origin": 13.321896,
+        "time_destination": 1671446597,
+        "lat_destination": 52.491267,
+        "long_destination": 13.321529
+    },
+    {
+        "bikeid": 19806,
+        "time_origin": 1671301368,
+        "lat_origin": 52.531013,
+        "long_origin": 13.344601,
+        "time_destination": 1671446597,
+        "lat_destination": 52.524813,
+        "long_destination": 13.348157
+    },
+    {
+        "bikeid": 15882,
+        "time_origin": 1671446597,
+        "lat_origin": 52.491267,
+        "long_origin": 13.321529,
+        "time_destination": 1671446658,
+        "lat_destination": 52.495973,
+        "long_destination": 13.321944
+    },
+    {
+        "bikeid": 14326,
+        "time_origin": 1671446475,
+        "lat_origin": 52.530476,
+        "long_origin": 13.32501,
+        "time_destination": 1671446963,
+        "lat_destination": 52.52648,
+        "long_destination": 13.338314
+    },
+    {
+        "bikeid": 18505,
+        "time_origin": 1671320583,
+        "lat_origin": 52.526578,
+        "long_origin": 13.411386,
+        "time_destination": 1671447085,
+        "lat_destination": 52.530476,
+        "long_destination": 13.343128
+    },
+    {
+        "bikeid": 19174,
+        "time_origin": 1670310280,
+        "lat_origin": 52.516284,
+        "long_origin": 13.390142,
+        "time_destination": 1671447329,
+        "lat_destination": 52.512551,
+        "long_destination": 13.391754
+    },
+    {
+        "bikeid": 18013,
+        "time_origin": 1670915178,
+        "lat_origin": 52.489618,
+        "long_origin": 13.380444,
+        "time_destination": 1671447451,
+        "lat_destination": 52.526058,
+        "long_destination": 13.387448
+    },
+    {
+        "bikeid": 17218,
+        "time_origin": 1671377885,
+        "lat_origin": 52.499253,
+        "long_origin": 13.381718,
+        "time_destination": 1671447634,
+        "lat_destination": 52.489884,
+        "long_destination": 13.385459
+    },
+    {
+        "bikeid": 19344,
+        "time_origin": 1669467509,
+        "lat_origin": 52.534991,
+        "long_origin": 13.417206,
+        "time_destination": 1671447695,
+        "lat_destination": 52.498658,
+        "long_destination": 13.361001
+    },
+    {
+        "bikeid": 15996,
+        "time_origin": 1670401904,
+        "lat_origin": 52.49796,
+        "long_origin": 13.522369,
+        "time_destination": 1671447817,
+        "lat_destination": 52.518071,
+        "long_destination": 13.292245
+    },
+    {
+        "bikeid": 17484,
+        "time_origin": 1671263975,
+        "lat_origin": 52.48632,
+        "long_origin": 13.431089,
+        "time_destination": 1671447879,
+        "lat_destination": 52.473871,
+        "long_destination": 13.424259
+    },
+    {
+        "bikeid": 19582,
+        "time_origin": 1670568197,
+        "lat_origin": 52.488316,
+        "long_origin": 13.419372,
+        "time_destination": 1671447879,
+        "lat_destination": 52.500756,
+        "long_destination": 13.442713
+    },
+    {
+        "bikeid": 15146,
+        "time_origin": 1671375323,
+        "lat_origin": 52.501178,
+        "long_origin": 13.445052,
+        "time_destination": 1671448000,
+        "lat_destination": 52.512164,
+        "long_destination": 13.473323
+    },
+    {
+        "bikeid": 15952,
+        "time_origin": 1671008286,
+        "lat_origin": 52.484431,
+        "long_origin": 13.439401,
+        "time_destination": 1671448000,
+        "lat_destination": 52.527284,
+        "long_destination": 13.406466
+    },
+    {
+        "bikeid": 19745,
+        "time_origin": 1671290205,
+        "lat_origin": 52.552684,
+        "long_origin": 13.404042,
+        "time_destination": 1671448061,
+        "lat_destination": 52.526022,
+        "long_destination": 13.340499
+    },
+    {
+        "bikeid": 17068,
+        "time_origin": 1671446475,
+        "lat_origin": 52.4848,
+        "long_origin": 13.455127,
+        "time_destination": 1671448183,
+        "lat_destination": 52.485956,
+        "long_destination": 13.392874
+    },
+    {
+        "bikeid": 15996,
+        "time_origin": 1671448061,
+        "lat_origin": 52.518071,
+        "long_origin": 13.292245,
+        "time_destination": 1671448244,
+        "lat_destination": 52.519373,
+        "long_destination": 13.298911
+    },
+    {
+        "bikeid": 18185,
+        "time_origin": 1671058013,
+        "lat_origin": 52.486133,
+        "long_origin": 13.426733,
+        "time_destination": 1671448244,
+        "lat_destination": 52.519431,
+        "long_destination": 13.387809
+    },
+    {
+        "bikeid": 19638,
+        "time_origin": 1671263487,
+        "lat_origin": 52.516889,
+        "long_origin": 13.317293,
+        "time_destination": 1671448244,
+        "lat_destination": 52.507991,
+        "long_destination": 13.308374
+    },
+    {
+        "bikeid": 15996,
+        "time_origin": 1671448244,
+        "lat_origin": 52.519373,
+        "long_origin": 13.298911,
+        "time_destination": 1671448305,
+        "lat_destination": 52.518467,
+        "long_destination": 13.302806
+    },
+    {
+        "bikeid": 15612,
+        "time_origin": 1670868770,
+        "lat_origin": 52.499413,
+        "long_origin": 13.354137,
+        "time_destination": 1671448549,
+        "lat_destination": 52.518538,
+        "long_destination": 13.285493
+    },
+    {
+        "bikeid": 15996,
+        "time_origin": 1671448305,
+        "lat_origin": 52.518467,
+        "long_origin": 13.302806,
+        "time_destination": 1671448610,
+        "lat_destination": 52.518929,
+        "long_destination": 13.318687
+    },
+    {
+        "bikeid": 19215,
+        "time_origin": 1671448000,
+        "lat_origin": 52.522062,
+        "long_origin": 13.415849,
+        "time_destination": 1671448610,
+        "lat_destination": 52.530316,
+        "long_destination": 13.401489
+    },
+    {
+        "bikeid": 16449,
+        "time_origin": 1670754236,
+        "lat_origin": 52.508227,
+        "long_origin": 13.434914,
+        "time_destination": 1671448793,
+        "lat_destination": 52.550627,
+        "long_destination": 13.377628
+    },
+    {
+        "bikeid": 19585,
+        "time_origin": 1671447269,
+        "lat_origin": 52.531453,
+        "long_origin": 13.387884,
+        "time_destination": 1671448854,
+        "lat_destination": 52.489298,
+        "long_destination": 13.387422
+    },
+    {
+        "bikeid": 17365,
+        "time_origin": 1671368674,
+        "lat_origin": 52.499333,
+        "long_origin": 13.464274,
+        "time_destination": 1671448915,
+        "lat_destination": 52.468596,
+        "long_destination": 13.430609
+    },
+    {
+        "bikeid": 18711,
+        "time_origin": 1671051669,
+        "lat_origin": 52.514444,
+        "long_origin": 13.405721,
+        "time_destination": 1671448915,
+        "lat_destination": 52.513262,
+        "long_destination": 13.394971
+    },
+    {
+        "bikeid": 15996,
+        "time_origin": 1671448610,
+        "lat_origin": 52.518929,
+        "long_origin": 13.318687,
+        "time_destination": 1671449098,
+        "lat_destination": 52.51808,
+        "long_destination": 13.322189
+    },
+    {
+        "bikeid": 15996,
+        "time_origin": 1671449098,
+        "lat_origin": 52.51808,
+        "long_origin": 13.322189,
+        "time_destination": 1671449159,
+        "lat_destination": 52.513564,
+        "long_destination": 13.329942
+    },
+    {
+        "bikeid": 19722,
+        "time_origin": 1671176536,
+        "lat_origin": 52.491138,
+        "long_origin": 13.449302,
+        "time_destination": 1671449220,
+        "lat_destination": 52.499578,
+        "long_destination": 13.444896
+    },
+    {
+        "bikeid": 19380,
+        "time_origin": 1671448672,
+        "lat_origin": 52.491831,
+        "long_origin": 13.387284,
+        "time_destination": 1671449342,
+        "lat_destination": 52.507151,
+        "long_destination": 13.378562
+    },
+    {
+        "bikeid": 15157,
+        "time_origin": 1671038664,
+        "lat_origin": 52.519907,
+        "long_origin": 13.391959,
+        "time_destination": 1671449464,
+        "lat_destination": 52.517564,
+        "long_destination": 13.415359
+    },
+    {
+        "bikeid": 15641,
+        "time_origin": 1671426772,
+        "lat_origin": 52.527822,
+        "long_origin": 13.393889,
+        "time_destination": 1671449464,
+        "lat_destination": 52.547484,
+        "long_destination": 13.401042
+    },
+    {
+        "bikeid": 18387,
+        "time_origin": 1670830450,
+        "lat_origin": 52.547422,
+        "long_origin": 13.408799,
+        "time_destination": 1671449464,
+        "lat_destination": 52.517271,
+        "long_destination": 13.415658
+    },
+    {
+        "bikeid": 19352,
+        "time_origin": 1670828010,
+        "lat_origin": 52.504036,
+        "long_origin": 13.445209,
+        "time_destination": 1671449464,
+        "lat_destination": 52.517276,
+        "long_destination": 13.415616
+    },
+    {
+        "bikeid": 19479,
+        "time_origin": 1671448672,
+        "lat_origin": 52.49636,
+        "long_origin": 13.428317,
+        "time_destination": 1671449464,
+        "lat_destination": 52.497738,
+        "long_destination": 13.435282
+    },
+    {
+        "bikeid": 19745,
+        "time_origin": 1671448305,
+        "lat_origin": 52.526578,
+        "long_origin": 13.340021,
+        "time_destination": 1671449708,
+        "lat_destination": 52.521796,
+        "long_destination": 13.326934
+    },
+    {
+        "bikeid": 17930,
+        "time_origin": 1670501285,
+        "lat_origin": 52.496862,
+        "long_origin": 13.324377,
+        "time_destination": 1671449830,
+        "lat_destination": 52.517667,
+        "long_destination": 13.392916
+    },
+    {
+        "bikeid": 19775,
+        "time_origin": 1671091483,
+        "lat_origin": 52.528191,
+        "long_origin": 13.339303,
+        "time_destination": 1671449830,
+        "lat_destination": 52.517244,
+        "long_destination": 13.392767
+    },
+    {
+        "bikeid": 19597,
+        "time_origin": 1671432018,
+        "lat_origin": 52.487152,
+        "long_origin": 13.422021,
+        "time_destination": 1671449952,
+        "lat_destination": 52.495329,
+        "long_destination": 13.405692
+    },
+    {
+        "bikeid": 18177,
+        "time_origin": 1671301002,
+        "lat_origin": 52.498209,
+        "long_origin": 13.465636,
+        "time_destination": 1671450196,
+        "lat_destination": 52.487564,
+        "long_destination": 13.42041
+    },
+    {
+        "bikeid": 17089,
+        "time_origin": 1671450318,
+        "lat_origin": 52.512564,
+        "long_origin": 13.460142,
+        "time_destination": 1671450379,
+        "lat_destination": 52.51472,
+        "long_destination": 13.460906
+    },
+    {
+        "bikeid": 17089,
+        "time_origin": 1671450379,
+        "lat_origin": 52.51472,
+        "long_origin": 13.460906,
+        "time_destination": 1671450440,
+        "lat_destination": 52.512369,
+        "long_destination": 13.460282
+    },
+    {
+        "bikeid": 19467,
+        "time_origin": 1671006152,
+        "lat_origin": 52.516973,
+        "long_origin": 13.292164,
+        "time_destination": 1671450502,
+        "lat_destination": 52.49776,
+        "long_destination": 13.324459
+    },
+    {
+        "bikeid": 15738,
+        "time_origin": 1671450745,
+        "lat_origin": 52.501058,
+        "long_origin": 13.417069,
+        "time_destination": 1671450807,
+        "lat_destination": 52.499218,
+        "long_destination": 13.416876
+    },
+    {
+        "bikeid": 19858,
+        "time_origin": 1671450502,
+        "lat_origin": 52.494418,
+        "long_origin": 13.400371,
+        "time_destination": 1671450929,
+        "lat_destination": 52.490071,
+        "long_destination": 13.412799
+    },
+    {
+        "bikeid": 17158,
+        "time_origin": 1671313873,
+        "lat_origin": 52.493538,
+        "long_origin": 13.423242,
+        "time_destination": 1671450989,
+        "lat_destination": 52.498209,
+        "long_destination": 13.443133
+    },
+    {
+        "bikeid": 15738,
+        "time_origin": 1671450807,
+        "lat_origin": 52.499218,
+        "long_origin": 13.416876,
+        "time_destination": 1671451051,
+        "lat_destination": 52.501364,
+        "long_destination": 13.416718
+    },
+    {
+        "bikeid": 17242,
+        "time_origin": 1671449586,
+        "lat_origin": 52.531844,
+        "long_origin": 13.421869,
+        "time_destination": 1671451051,
+        "lat_destination": 52.521276,
+        "long_destination": 13.386929
+    },
+    {
+        "bikeid": 18802,
+        "time_origin": 1671018290,
+        "lat_origin": 52.478396,
+        "long_origin": 13.43776,
+        "time_destination": 1671451111,
+        "lat_destination": 52.498911,
+        "long_destination": 13.387307
+    },
+    {
+        "bikeid": 14404,
+        "time_origin": 1670443628,
+        "lat_origin": 52.548729,
+        "long_origin": 13.400568,
+        "time_destination": 1671451233,
+        "lat_destination": 52.514836,
+        "long_destination": 13.390924
+    },
+    {
+        "bikeid": 16834,
+        "time_origin": 1671352936,
+        "lat_origin": 52.543498,
+        "long_origin": 13.414782,
+        "time_destination": 1671451233,
+        "lat_destination": 52.523022,
+        "long_destination": 13.38837
+    },
+    {
+        "bikeid": 17158,
+        "time_origin": 1671451111,
+        "lat_origin": 52.498147,
+        "long_origin": 13.443107,
+        "time_destination": 1671451294,
+        "lat_destination": 52.496138,
+        "long_destination": 13.441868
+    },
+    {
+        "bikeid": 13237,
+        "time_origin": 1671450867,
+        "lat_origin": 52.521289,
+        "long_origin": 13.415232,
+        "time_destination": 1671451355,
+        "lat_destination": 52.528458,
+        "long_destination": 13.423722
+    },
+    {
+        "bikeid": 19585,
+        "time_origin": 1671449098,
+        "lat_origin": 52.490133,
+        "long_origin": 13.385972,
+        "time_destination": 1671451355,
+        "lat_destination": 52.509693,
+        "long_destination": 13.325448
+    },
+    {
+        "bikeid": 19895,
+        "time_origin": 1671303076,
+        "lat_origin": 52.497658,
+        "long_origin": 13.448181,
+        "time_destination": 1671451355,
+        "lat_destination": 52.50424,
+        "long_destination": 13.448757
+    },
+    {
+        "bikeid": 14838,
+        "time_origin": 1669569156,
+        "lat_origin": 52.490942,
+        "long_origin": 13.412718,
+        "time_destination": 1671451416,
+        "lat_destination": 52.506649,
+        "long_destination": 13.388509
+    },
+    {
+        "bikeid": 15996,
+        "time_origin": 1671449220,
+        "lat_origin": 52.51316,
+        "long_origin": 13.329504,
+        "time_destination": 1671451416,
+        "lat_destination": 52.515609,
+        "long_destination": 13.337026
+    },
+    {
+        "bikeid": 15549,
+        "time_origin": 1671349581,
+        "lat_origin": 52.522631,
+        "long_origin": 13.403638,
+        "time_destination": 1671451477,
+        "lat_destination": 52.514591,
+        "long_destination": 13.46526
+    },
+    {
+        "bikeid": 15996,
+        "time_origin": 1671451416,
+        "lat_origin": 52.515609,
+        "long_origin": 13.337026,
+        "time_destination": 1671451477,
+        "lat_destination": 52.518653,
+        "long_destination": 13.339767
+    },
+    {
+        "bikeid": 19315,
+        "time_origin": 1671450867,
+        "lat_origin": 52.477347,
+        "long_origin": 13.438712,
+        "time_destination": 1671451477,
+        "lat_destination": 52.469102,
+        "long_destination": 13.434904
+    },
+    {
+        "bikeid": 15996,
+        "time_origin": 1671451477,
+        "lat_origin": 52.518653,
+        "long_origin": 13.339767,
+        "time_destination": 1671451538,
+        "lat_destination": 52.52312,
+        "long_destination": 13.342106
+    },
+    {
+        "bikeid": 17718,
+        "time_origin": 1671438179,
+        "lat_origin": 52.474741,
+        "long_origin": 13.367177,
+        "time_destination": 1671451721,
+        "lat_destination": 52.477351,
+        "long_destination": 13.38431
+    },
+    {
+        "bikeid": 15996,
+        "time_origin": 1671451721,
+        "lat_origin": 52.523862,
+        "long_origin": 13.342497,
+        "time_destination": 1671451782,
+        "lat_destination": 52.527431,
+        "long_destination": 13.343161
+    },
+    {
+        "bikeid": 15996,
+        "time_origin": 1671451782,
+        "lat_origin": 52.527431,
+        "long_origin": 13.343161,
+        "time_destination": 1671451843,
+        "lat_destination": 52.533209,
+        "long_destination": 13.339256
+    },
+    {
+        "bikeid": 15996,
+        "time_origin": 1671451904,
+        "lat_origin": 52.534044,
+        "long_origin": 13.340624,
+        "time_destination": 1671451965,
+        "lat_destination": 52.534991,
+        "long_destination": 13.347072
+    },
+    {
+        "bikeid": 17130,
+        "time_origin": 1670376313,
+        "lat_origin": 52.506276,
+        "long_origin": 13.426418,
+        "time_destination": 1671451965,
+        "lat_destination": 52.527751,
+        "long_destination": 13.409021
+    },
+    {
+        "bikeid": 19773,
+        "time_origin": 1671035370,
+        "lat_origin": 52.508764,
+        "long_origin": 13.43641,
+        "time_destination": 1671452026,
+        "lat_destination": 52.532507,
+        "long_destination": 13.41393
+    },
+    {
+        "bikeid": 15799,
+        "time_origin": 1671452148,
+        "lat_origin": 52.550551,
+        "long_origin": 13.415097,
+        "time_destination": 1671452209,
+        "lat_destination": 52.548649,
+        "long_destination": 13.413671
+    },
+    {
+        "bikeid": 13215,
+        "time_origin": 1670835391,
+        "lat_origin": 52.484431,
+        "long_origin": 13.447902,
+        "time_destination": 1671452270,
+        "lat_destination": 52.514111,
+        "long_destination": 13.381789
+    },
+    {
+        "bikeid": 17139,
+        "time_origin": 1671338479,
+        "lat_origin": 52.503582,
+        "long_origin": 13.334207,
+        "time_destination": 1671452453,
+        "lat_destination": 52.49328,
+        "long_destination": 13.38511
+    },
+    {
+        "bikeid": 16601,
+        "time_origin": 1671434092,
+        "lat_origin": 52.48823,
+        "long_origin": 13.419289,
+        "time_destination": 1671452514,
+        "lat_destination": 52.494467,
+        "long_destination": 13.418669
+    },
+    {
+        "bikeid": 17184,
+        "time_origin": 1671382826,
+        "lat_origin": 52.503476,
+        "long_origin": 13.398517,
+        "time_destination": 1671452514,
+        "lat_destination": 52.480533,
+        "long_destination": 13.431874
+    },
+    {
+        "bikeid": 15503,
+        "time_origin": 1671452270,
+        "lat_origin": 52.50984,
+        "long_origin": 13.35155,
+        "time_destination": 1671453003,
+        "lat_destination": 52.524089,
+        "long_destination": 13.36934
+    },
+    {
+        "bikeid": 18185,
+        "time_origin": 1671452209,
+        "lat_origin": 52.519182,
+        "long_origin": 13.388061,
+        "time_destination": 1671453003,
+        "lat_destination": 52.501622,
+        "long_destination": 13.385348
+    },
+    {
+        "bikeid": 15759,
+        "time_origin": 1671361720,
+        "lat_origin": 52.530836,
+        "long_origin": 13.400299,
+        "time_destination": 1671453185,
+        "lat_destination": 52.526849,
+        "long_destination": 13.380158
+    },
+    {
+        "bikeid": 17555,
+        "time_origin": 1671278920,
+        "lat_origin": 52.487249,
+        "long_origin": 13.37653,
+        "time_destination": 1671453308,
+        "lat_destination": 52.488973,
+        "long_destination": 13.393682
+    },
+    {
+        "bikeid": 15078,
+        "time_origin": 1671367027,
+        "lat_origin": 52.495449,
+        "long_origin": 13.397126,
+        "time_destination": 1671453429,
+        "lat_destination": 52.495124,
+        "long_destination": 13.386553
+    },
+    {
+        "bikeid": 10940,
+        "time_origin": 1670951351,
+        "lat_origin": 52.54208,
+        "long_origin": 13.382841,
+        "time_destination": 1671453551,
+        "lat_destination": 52.503671,
+        "long_destination": 13.440546
+    },
+    {
+        "bikeid": 18366,
+        "time_origin": 1671453185,
+        "lat_origin": 52.510458,
+        "long_origin": 13.45331,
+        "time_destination": 1671453612,
+        "lat_destination": 52.506369,
+        "long_destination": 13.448697
+    },
+    {
+        "bikeid": 19109,
+        "time_origin": 1671452880,
+        "lat_origin": 52.495467,
+        "long_origin": 13.360882,
+        "time_destination": 1671453735,
+        "lat_destination": 52.511676,
+        "long_destination": 13.389826
+    },
+    {
+        "bikeid": 19435,
+        "time_origin": 1670953242,
+        "lat_origin": 52.467733,
+        "long_origin": 13.308919,
+        "time_destination": 1671453735,
+        "lat_destination": 52.474138,
+        "long_destination": 13.316157
+    },
+    {
+        "bikeid": 15701,
+        "time_origin": 1671453856,
+        "lat_origin": 52.489236,
+        "long_origin": 13.423354,
+        "time_destination": 1671453917,
+        "lat_destination": 52.420369,
+        "long_destination": 13.37821
+    },
+    {
+        "bikeid": 15635,
+        "time_origin": 1671453735,
+        "lat_origin": 52.462116,
+        "long_origin": 13.344817,
+        "time_destination": 1671453978,
+        "lat_destination": 52.470969,
+        "long_destination": 13.344021
+    },
+    {
+        "bikeid": 15701,
+        "time_origin": 1671453917,
+        "lat_origin": 52.420369,
+        "long_origin": 13.37821,
+        "time_destination": 1671453978,
+        "lat_destination": 52.488604,
+        "long_destination": 13.422618
+    },
+    {
+        "bikeid": 13730,
+        "time_origin": 1669906540,
+        "lat_origin": 52.529311,
+        "long_origin": 13.375563,
+        "time_destination": 1671454039,
+        "lat_destination": 52.475138,
+        "long_destination": 13.323734
+    },
+    {
+        "bikeid": 16755,
+        "time_origin": 1667559939,
+        "lat_origin": 52.510969,
+        "long_origin": 13.296273,
+        "time_destination": 1671454100,
+        "lat_destination": 52.465462,
+        "long_destination": 13.329439
+    },
+    {
+        "bikeid": 19745,
+        "time_origin": 1671450074,
+        "lat_origin": 52.521867,
+        "long_origin": 13.326863,
+        "time_destination": 1671454161,
+        "lat_destination": 52.530524,
+        "long_destination": 13.32661
+    },
+    {
+        "bikeid": 17291,
+        "time_origin": 1671454161,
+        "lat_origin": 52.535342,
+        "long_origin": 13.429071,
+        "time_destination": 1671454222,
+        "lat_destination": 52.539209,
+        "long_destination": 13.431069
+    },
+    {
+        "bikeid": 18194,
+        "time_origin": 1671361171,
+        "lat_origin": 52.452587,
+        "long_origin": 13.446228,
+        "time_destination": 1671454222,
+        "lat_destination": 52.468907,
+        "long_destination": 13.420927
+    },
+    {
+        "bikeid": 17291,
+        "time_origin": 1671454222,
+        "lat_origin": 52.539209,
+        "long_origin": 13.431069,
+        "time_destination": 1671454283,
+        "lat_destination": 52.535027,
+        "long_destination": 13.429052
+    },
+    {
+        "bikeid": 16207,
+        "time_origin": 1671454222,
+        "lat_origin": 52.478818,
+        "long_origin": 13.425521,
+        "time_destination": 1671454528,
+        "lat_destination": 52.48352,
+        "long_destination": 13.435304
+    },
+    {
+        "bikeid": 19117,
+        "time_origin": 1670846017,
+        "lat_origin": 52.507804,
+        "long_origin": 13.38976,
+        "time_destination": 1671454650,
+        "lat_destination": 52.508764,
+        "long_destination": 13.296031
+    },
+    {
+        "bikeid": 18226,
+        "time_origin": 1671167081,
+        "lat_origin": 52.506147,
+        "long_origin": 13.430807,
+        "time_destination": 1671454894,
+        "lat_destination": 52.52084,
+        "long_destination": 13.450251
+    },
+    {
+        "bikeid": 17508,
+        "time_origin": 1671064845,
+        "lat_origin": 52.527573,
+        "long_origin": 13.392704,
+        "time_destination": 1671454954,
+        "lat_destination": 52.527782,
+        "long_destination": 13.380102
+    },
+    {
+        "bikeid": 18931,
+        "time_origin": 1671104415,
+        "lat_origin": 52.527733,
+        "long_origin": 13.34776,
+        "time_destination": 1671454954,
+        "lat_destination": 52.532053,
+        "long_destination": 13.349442
+    },
+    {
+        "bikeid": 10908,
+        "time_origin": 1671377092,
+        "lat_origin": 52.494182,
+        "long_origin": 13.399698,
+        "time_destination": 1671455076,
+        "lat_destination": 52.520573,
+        "long_destination": 13.422144
+    },
+    {
+        "bikeid": 17210,
+        "time_origin": 1670769608,
+        "lat_origin": 52.541311,
+        "long_origin": 13.410364,
+        "time_destination": 1671455076,
+        "lat_destination": 52.547613,
+        "long_destination": 13.40094
+    },
+    {
+        "bikeid": 16631,
+        "time_origin": 1670194761,
+        "lat_origin": 52.503027,
+        "long_origin": 13.293439,
+        "time_destination": 1671455320,
+        "lat_destination": 52.513071,
+        "long_destination": 13.292086
+    },
+    {
+        "bikeid": 16306,
+        "time_origin": 1668294994,
+        "lat_origin": 52.513169,
+        "long_origin": 13.39342,
+        "time_destination": 1671455382,
+        "lat_destination": 52.510133,
+        "long_destination": 13.387836
+    },
+    {
+        "bikeid": 19577,
+        "time_origin": 1670936284,
+        "lat_origin": 52.51668,
+        "long_origin": 13.446659,
+        "time_destination": 1671455428,
+        "lat_destination": 52.520751,
+        "long_destination": 13.445729
+    },
+    {
+        "bikeid": 19503,
+        "time_origin": 1671406006,
+        "lat_origin": 52.537884,
+        "long_origin": 13.248064,
+        "time_destination": 1671455550,
+        "lat_destination": 52.530542,
+        "long_destination": 13.382363
+    },
+    {
+        "bikeid": 19745,
+        "time_origin": 1671454222,
+        "lat_origin": 52.530431,
+        "long_origin": 13.32661,
+        "time_destination": 1671455550,
+        "lat_destination": 52.52328,
+        "long_destination": 13.343897
+    },
+    {
+        "bikeid": 19461,
+        "time_origin": 1671454650,
+        "lat_origin": 52.527596,
+        "long_origin": 13.360957,
+        "time_destination": 1671455611,
+        "lat_destination": 52.532053,
+        "long_destination": 13.384249
+    },
+    {
+        "bikeid": 18393,
+        "time_origin": 1671455611,
+        "lat_origin": 52.531244,
+        "long_origin": 13.378396,
+        "time_destination": 1671455672,
+        "lat_destination": 52.53528,
+        "long_destination": 13.384398
+    },
+    {
+        "bikeid": 18393,
+        "time_origin": 1671455672,
+        "lat_origin": 52.53528,
+        "long_origin": 13.384398,
+        "time_destination": 1671455733,
+        "lat_destination": 52.532964,
+        "long_destination": 13.379593
+    },
+    {
+        "bikeid": 19728,
+        "time_origin": 1670827461,
+        "lat_origin": 52.523276,
+        "long_origin": 13.373883,
+        "time_destination": 1671455733,
+        "lat_destination": 52.519831,
+        "long_destination": 13.393298
+    },
+    {
+        "bikeid": 16274,
+        "time_origin": 1671032320,
+        "lat_origin": 52.484,
+        "long_origin": 13.42302,
+        "time_destination": 1671455916,
+        "lat_destination": 52.502098,
+        "long_destination": 13.417974
+    },
+    {
+        "bikeid": 18393,
+        "time_origin": 1671455855,
+        "lat_origin": 52.532964,
+        "long_origin": 13.379593,
+        "time_destination": 1671455916,
+        "lat_destination": 52.53112,
+        "long_destination": 13.378463
+    },
+    {
+        "bikeid": 19888,
+        "time_origin": 1670611604,
+        "lat_origin": 52.484044,
+        "long_origin": 13.429003,
+        "time_destination": 1671455977,
+        "lat_destination": 52.520271,
+        "long_destination": 13.462554
+    },
+    {
+        "bikeid": 16619,
+        "time_origin": 1671295146,
+        "lat_origin": 52.527791,
+        "long_origin": 13.350533,
+        "time_destination": 1671456160,
+        "lat_destination": 52.519849,
+        "long_destination": 13.347976
+    },
+    {
+        "bikeid": 19673,
+        "time_origin": 1671377397,
+        "lat_origin": 52.481004,
+        "long_origin": 13.361307,
+        "time_destination": 1671456587,
+        "lat_destination": 52.472902,
+        "long_destination": 13.318069
+    },
+    {
+        "bikeid": 19656,
+        "time_origin": 1671340553,
+        "lat_origin": 52.5286,
+        "long_origin": 13.457617,
+        "time_destination": 1671456648,
+        "lat_destination": 52.530542,
+        "long_destination": 13.458988
+    },
+    {
+        "bikeid": 16816,
+        "time_origin": 1671455977,
+        "lat_origin": 52.498307,
+        "long_origin": 13.447091,
+        "time_destination": 1671456770,
+        "lat_destination": 52.511702,
+        "long_destination": 13.427623
+    },
+    {
+        "bikeid": 19852,
+        "time_origin": 1671456404,
+        "lat_origin": 52.498049,
+        "long_origin": 13.422681,
+        "time_destination": 1671456770,
+        "lat_destination": 52.493204,
+        "long_destination": 13.421871
+    },
+    {
+        "bikeid": 19745,
+        "time_origin": 1671455611,
+        "lat_origin": 52.523267,
+        "long_origin": 13.343884,
+        "time_destination": 1671457136,
+        "lat_destination": 52.530164,
+        "long_destination": 13.401339
+    },
+    {
+        "bikeid": 15981,
+        "time_origin": 1670268726,
+        "lat_origin": 52.500804,
+        "long_origin": 13.436739,
+        "time_destination": 1671457319,
+        "lat_destination": 52.544467,
+        "long_destination": 13.427936
+    },
+    {
+        "bikeid": 19888,
+        "time_origin": 1671457502,
+        "lat_origin": 52.520284,
+        "long_origin": 13.462566,
+        "time_destination": 1671457807,
+        "lat_destination": 52.517613,
+        "long_destination": 13.464892
+    },
+    {
+        "bikeid": 14389,
+        "time_origin": 1670956780,
+        "lat_origin": 52.511347,
+        "long_origin": 13.403131,
+        "time_destination": 1671458051,
+        "lat_destination": 52.088422,
+        "long_destination": 12.759943
+    },
+    {
+        "bikeid": 14976,
+        "time_origin": 1671368796,
+        "lat_origin": 52.53256,
+        "long_origin": 13.400136,
+        "time_destination": 1671458234,
+        "lat_destination": 52.53248,
+        "long_destination": 13.413217
+    },
+    {
+        "bikeid": 16991,
+        "time_origin": 1669446342,
+        "lat_origin": 52.509911,
+        "long_origin": 13.272456,
+        "time_destination": 1671458356,
+        "lat_destination": 52.484733,
+        "long_destination": 13.261474
+    },
+    {
+        "bikeid": 13590,
+        "time_origin": 1670913409,
+        "lat_origin": 52.510191,
+        "long_origin": 13.437187,
+        "time_destination": 1671458539,
+        "lat_destination": 52.514533,
+        "long_destination": 13.446743
+    },
+    {
+        "bikeid": 14389,
+        "time_origin": 1671458112,
+        "lat_origin": 52.088422,
+        "long_origin": 12.759943,
+        "time_destination": 1671459149,
+        "lat_destination": 52.506813,
+        "long_destination": 13.460376
+    },
+    {
+        "bikeid": 19237,
+        "time_origin": 1671458844,
+        "lat_origin": 52.47448,
+        "long_origin": 13.449593,
+        "time_destination": 1671459149,
+        "lat_destination": 52.472876,
+        "long_destination": 13.454669
+    },
+    {
+        "bikeid": 19745,
+        "time_origin": 1671457319,
+        "lat_origin": 52.53016,
+        "long_origin": 13.40134,
+        "time_destination": 1671459149,
+        "lat_destination": 52.533453,
+        "long_destination": 13.410632
+    },
+    {
+        "bikeid": 18947,
+        "time_origin": 1671459698,
+        "lat_origin": 52.553538,
+        "long_origin": 13.384028,
+        "time_destination": 1671459759,
+        "lat_destination": 52.551329,
+        "long_destination": 13.383053
+    },
+    {
+        "bikeid": 17877,
+        "time_origin": 1671235706,
+        "lat_origin": 52.502578,
+        "long_origin": 13.468036,
+        "time_destination": 1671459820,
+        "lat_destination": 52.511213,
+        "long_destination": 13.492593
+    },
+    {
+        "bikeid": 18123,
+        "time_origin": 1671459515,
+        "lat_origin": 52.514956,
+        "long_origin": 13.304784,
+        "time_destination": 1671459942,
+        "lat_destination": 52.517458,
+        "long_destination": 13.298382
+    },
+    {
+        "bikeid": 19506,
+        "time_origin": 1671458966,
+        "lat_origin": 52.50904,
+        "long_origin": 13.435742,
+        "time_destination": 1671459942,
+        "lat_destination": 52.512858,
+        "long_destination": 13.4779
+    },
+    {
+        "bikeid": 19589,
+        "time_origin": 1671185259,
+        "lat_origin": 52.526391,
+        "long_origin": 13.368091,
+        "time_destination": 1671460064,
+        "lat_destination": 52.514227,
+        "long_destination": 13.395064
+    },
+    {
+        "bikeid": 13930,
+        "time_origin": 1671459210,
+        "lat_origin": 52.469404,
+        "long_origin": 13.425227,
+        "time_destination": 1671460247,
+        "lat_destination": 52.492698,
+        "long_destination": 13.390356
+    },
+    {
+        "bikeid": 17790,
+        "time_origin": 1671459759,
+        "lat_origin": 52.469196,
+        "long_origin": 13.331777,
+        "time_destination": 1671460430,
+        "lat_destination": 52.486142,
+        "long_destination": 13.332212
+    },
+    {
+        "bikeid": 19329,
+        "time_origin": 1670683392,
+        "lat_origin": 52.511107,
+        "long_origin": 13.319568,
+        "time_destination": 1671460552,
+        "lat_destination": 52.510311,
+        "long_destination": 13.374821
+    },
+    {
+        "bikeid": 17586,
+        "time_origin": 1671460003,
+        "lat_origin": 52.520329,
+        "long_origin": 13.462632,
+        "time_destination": 1671460613,
+        "lat_destination": 52.52944,
+        "long_destination": 13.456419
+    },
+    {
+        "bikeid": 17909,
+        "time_origin": 1671459332,
+        "lat_origin": 52.501498,
+        "long_origin": 13.432371,
+        "time_destination": 1671460735,
+        "lat_destination": 52.529591,
+        "long_destination": 13.410002
+    },
+    {
+        "bikeid": 19210,
+        "time_origin": 1671460735,
+        "lat_origin": 52.499169,
+        "long_origin": 13.300984,
+        "time_destination": 1671460796,
+        "lat_destination": 52.501,
+        "long_destination": 13.300502
+    },
+    {
+        "bikeid": 19855,
+        "time_origin": 1671358792,
+        "lat_origin": 52.550084,
+        "long_origin": 13.377287,
+        "time_destination": 1671460796,
+        "lat_destination": 52.549138,
+        "long_destination": 13.410049
+    },
+    {
+        "bikeid": 17055,
+        "time_origin": 1671460064,
+        "lat_origin": 52.502938,
+        "long_origin": 13.487689,
+        "time_destination": 1671460857,
+        "lat_destination": 52.514324,
+        "long_destination": 13.488773
+    },
+    {
+        "bikeid": 19047,
+        "time_origin": 1671460857,
+        "lat_origin": 52.514476,
+        "long_origin": 13.437578,
+        "time_destination": 1671460918,
+        "lat_destination": 52.512071,
+        "long_destination": 13.433552
+    },
+    {
+        "bikeid": 19745,
+        "time_origin": 1671459210,
+        "lat_origin": 52.533471,
+        "long_origin": 13.41062,
+        "time_destination": 1671460918,
+        "lat_destination": 52.523249,
+        "long_destination": 13.394126
+    },
+    {
+        "bikeid": 19047,
+        "time_origin": 1671460918,
+        "lat_origin": 52.512071,
+        "long_origin": 13.433552,
+        "time_destination": 1671460979,
+        "lat_destination": 52.515013,
+        "long_destination": 13.437153
+    },
+    {
+        "bikeid": 16834,
+        "time_origin": 1671460979,
+        "lat_origin": 52.522964,
+        "long_origin": 13.388002,
+        "time_destination": 1671461040,
+        "lat_destination": 52.523813,
+        "long_destination": 13.384964
+    },
+    {
+        "bikeid": 13111,
+        "time_origin": 1671035004,
+        "lat_origin": 52.493831,
+        "long_origin": 13.388131,
+        "time_destination": 1671461101,
+        "lat_destination": 52.474058,
+        "long_destination": 13.424084
+    },
+    {
+        "bikeid": 10911,
+        "time_origin": 1670165176,
+        "lat_origin": 52.475627,
+        "long_origin": 13.365118,
+        "time_destination": 1671461162,
+        "lat_destination": 52.545604,
+        "long_destination": 13.41945
+    },
+    {
+        "bikeid": 15267,
+        "time_origin": 1671201424,
+        "lat_origin": 52.517164,
+        "long_origin": 13.38811,
+        "time_destination": 1671461223,
+        "lat_destination": 52.543458,
+        "long_destination": 13.388083
+    },
+    {
+        "bikeid": 17790,
+        "time_origin": 1671460613,
+        "lat_origin": 52.486036,
+        "long_origin": 13.33218,
+        "time_destination": 1671461345,
+        "lat_destination": 52.468116,
+        "long_destination": 13.335751
+    },
+    {
+        "bikeid": 17292,
+        "time_origin": 1668693201,
+        "lat_origin": 52.532364,
+        "long_origin": 13.452698,
+        "time_destination": 1671461467,
+        "lat_destination": 52.53168,
+        "long_destination": 13.518162
+    },
+    {
+        "bikeid": 13867,
+        "time_origin": 1671461589,
+        "lat_origin": 52.49336,
+        "long_origin": 13.344881,
+        "time_destination": 1671461650,
+        "lat_destination": 52.227987,
+        "long_destination": 14.250641
+    },
+    {
+        "bikeid": 18612,
+        "time_origin": 1670922681,
+        "lat_origin": 52.540902,
+        "long_origin": 13.41843,
+        "time_destination": 1671461650,
+        "lat_destination": 52.521436,
+        "long_destination": 13.380097
+    },
+    {
+        "bikeid": 18885,
+        "time_origin": 1671322535,
+        "lat_origin": 52.519173,
+        "long_origin": 13.411966,
+        "time_destination": 1671461650,
+        "lat_destination": 52.510231,
+        "long_destination": 13.402524
+    },
+    {
+        "bikeid": 13867,
+        "time_origin": 1671461650,
+        "lat_origin": 52.227987,
+        "long_origin": 14.250641,
+        "time_destination": 1671461711,
+        "lat_destination": 52.493164,
+        "long_destination": 13.345091
+    },
+    {
+        "bikeid": 17106,
+        "time_origin": 1669870629,
+        "lat_origin": 52.506698,
+        "long_origin": 13.35165,
+        "time_destination": 1671461772,
+        "lat_destination": 52.5086,
+        "long_destination": 13.351406
+    },
+    {
+        "bikeid": 17820,
+        "time_origin": 1671288985,
+        "lat_origin": 52.460204,
+        "long_origin": 13.323551,
+        "time_destination": 1671461772,
+        "lat_destination": 52.458311,
+        "long_destination": 13.32347
+    },
+    {
+        "bikeid": 16449,
+        "time_origin": 1671448793,
+        "lat_origin": 52.550627,
+        "long_origin": 13.377628,
+        "time_destination": 1671461894,
+        "lat_destination": 52.558973,
+        "long_destination": 13.377818
+    },
+    {
+        "bikeid": 10882,
+        "time_origin": 1671425796,
+        "lat_origin": 52.518644,
+        "long_origin": 13.276814,
+        "time_destination": 1671462016,
+        "lat_destination": 52.518778,
+        "long_destination": 13.284031
+    },
+    {
+        "bikeid": 17055,
+        "time_origin": 1671461223,
+        "lat_origin": 52.514218,
+        "long_origin": 13.489069,
+        "time_destination": 1671462077,
+        "lat_destination": 52.503191,
+        "long_destination": 13.487744
+    },
+    {
+        "bikeid": 13031,
+        "time_origin": 1670155904,
+        "lat_origin": 52.495649,
+        "long_origin": 13.420036,
+        "time_destination": 1671462138,
+        "lat_destination": 52.492987,
+        "long_destination": 13.42582
+    },
+    {
+        "bikeid": 15790,
+        "time_origin": 1671443791,
+        "lat_origin": 52.485969,
+        "long_origin": 13.422408,
+        "time_destination": 1671462138,
+        "lat_destination": 52.488169,
+        "long_destination": 13.421416
+    },
+    {
+        "bikeid": 16728,
+        "time_origin": 1671462321,
+        "lat_origin": 52.489884,
+        "long_origin": 13.384322,
+        "time_destination": 1671462382,
+        "lat_destination": 52.498729,
+        "long_destination": 13.383214
+    },
+    {
+        "bikeid": 16728,
+        "time_origin": 1671462382,
+        "lat_origin": 52.498729,
+        "long_origin": 13.383214,
+        "time_destination": 1671462443,
+        "lat_destination": 52.490013,
+        "long_destination": 13.384433
+    },
+    {
+        "bikeid": 19855,
+        "time_origin": 1671461650,
+        "lat_origin": 52.548991,
+        "long_origin": 13.410204,
+        "time_destination": 1671462443,
+        "lat_destination": 52.538551,
+        "long_destination": 13.39623
+    },
+    {
+        "bikeid": 19892,
+        "time_origin": 1671462382,
+        "lat_origin": 52.49056,
+        "long_origin": 13.379197,
+        "time_destination": 1671462443,
+        "lat_destination": 52.492302,
+        "long_destination": 13.37843
+    },
+    {
+        "bikeid": 16000,
+        "time_origin": 1671197642,
+        "lat_origin": 52.525716,
+        "long_origin": 13.33316,
+        "time_destination": 1671462504,
+        "lat_destination": 52.532916,
+        "long_destination": 13.395138
+    },
+    {
+        "bikeid": 16699,
+        "time_origin": 1671461529,
+        "lat_origin": 52.524316,
+        "long_origin": 13.374028,
+        "time_destination": 1671462748,
+        "lat_destination": 52.538142,
+        "long_destination": 13.410679
+    },
+    {
+        "bikeid": 19498,
+        "time_origin": 1671461467,
+        "lat_origin": 52.498209,
+        "long_origin": 13.438379,
+        "time_destination": 1671462809,
+        "lat_destination": 52.49616,
+        "long_destination": 13.442311
+    },
+    {
+        "bikeid": 17255,
+        "time_origin": 1671462748,
+        "lat_origin": 52.464778,
+        "long_origin": 13.340224,
+        "time_destination": 1671463114,
+        "lat_destination": 52.461164,
+        "long_destination": 13.325336
+    },
+    {
+        "bikeid": 19229,
+        "time_origin": 1671358914,
+        "lat_origin": 52.507969,
+        "long_origin": 13.44742,
+        "time_destination": 1671463419,
+        "lat_destination": 52.508609,
+        "long_destination": 13.450287
+    },
+    {
+        "bikeid": 16677,
+        "time_origin": 1671026769,
+        "lat_origin": 52.519076,
+        "long_origin": 13.310209,
+        "time_destination": 1671463480,
+        "lat_destination": 52.506062,
+        "long_destination": 13.327798
+    },
+    {
+        "bikeid": 17455,
+        "time_origin": 1671462809,
+        "lat_origin": 52.51836,
+        "long_origin": 13.389616,
+        "time_destination": 1671463480,
+        "lat_destination": 52.522849,
+        "long_destination": 13.401071
+    },
+    {
+        "bikeid": 19232,
+        "time_origin": 1671462871,
+        "lat_origin": 52.53624,
+        "long_origin": 13.397467,
+        "time_destination": 1671463602,
+        "lat_destination": 52.529018,
+        "long_destination": 13.3967
+    },
+    {
+        "bikeid": 33980,
+        "time_origin": 1669728842,
+        "lat_origin": 52.633502,
+        "long_origin": 13.49435,
+        "time_destination": 1671463602,
+        "lat_destination": 52.577453,
+        "long_destination": 13.428617
+    },
+    {
+        "bikeid": 18608,
+        "time_origin": 1671463358,
+        "lat_origin": 52.52648,
+        "long_origin": 13.326296,
+        "time_destination": 1671463846,
+        "lat_destination": 52.525453,
+        "long_destination": 13.340932
+    },
+    {
+        "bikeid": 15715,
+        "time_origin": 1671464273,
+        "lat_origin": 52.490844,
+        "long_origin": 13.417086,
+        "time_destination": 1671464334,
+        "lat_destination": 52.487289,
+        "long_destination": 13.4175
+    },
+    {
+        "bikeid": 15613,
+        "time_origin": 1671217833,
+        "lat_origin": 52.499649,
+        "long_origin": 13.353888,
+        "time_destination": 1671464395,
+        "lat_destination": 52.480493,
+        "long_destination": 13.351782
+    },
+    {
+        "bikeid": 15698,
+        "time_origin": 1671191481,
+        "lat_origin": 52.498471,
+        "long_origin": 13.452116,
+        "time_destination": 1671464395,
+        "lat_destination": 52.52532,
+        "long_destination": 13.425614
+    },
+    {
+        "bikeid": 15715,
+        "time_origin": 1671464334,
+        "lat_origin": 52.487289,
+        "long_origin": 13.4175,
+        "time_destination": 1671464395,
+        "lat_destination": 52.490951,
+        "long_destination": 13.41713
+    },
+    {
+        "bikeid": 10983,
+        "time_origin": 1671378556,
+        "lat_origin": 52.49348,
+        "long_origin": 13.388068,
+        "time_destination": 1671464944,
+        "lat_destination": 52.477702,
+        "long_destination": 13.421842
+    },
+    {
+        "bikeid": 18165,
+        "time_origin": 1670161150,
+        "lat_origin": 52.531284,
+        "long_origin": 13.361146,
+        "time_destination": 1671465127,
+        "lat_destination": 52.491862,
+        "long_destination": 13.488491
+    },
+    {
+        "bikeid": 17982,
+        "time_origin": 1671092887,
+        "lat_origin": 52.526711,
+        "long_origin": 13.356494,
+        "time_destination": 1671465188,
+        "lat_destination": 52.491684,
+        "long_destination": 13.488308
+    },
+    {
+        "bikeid": 18701,
+        "time_origin": 1670330563,
+        "lat_origin": 52.531227,
+        "long_origin": 13.341404,
+        "time_destination": 1671465188,
+        "lat_destination": 52.491804,
+        "long_destination": 13.488481
+    },
+    {
+        "bikeid": 17671,
+        "time_origin": 1670354048,
+        "lat_origin": 52.50244,
+        "long_origin": 13.388249,
+        "time_destination": 1671465310,
+        "lat_destination": 52.524107,
+        "long_destination": 13.46582
+    },
+    {
+        "bikeid": 18133,
+        "time_origin": 1671179769,
+        "lat_origin": 52.517284,
+        "long_origin": 13.443211,
+        "time_destination": 1671465554,
+        "lat_destination": 52.512093,
+        "long_destination": 13.448149
+    },
+    {
+        "bikeid": 19321,
+        "time_origin": 1671393623,
+        "lat_origin": 52.528564,
+        "long_origin": 13.457716,
+        "time_destination": 1671465615,
+        "lat_destination": 52.516471,
+        "long_destination": 13.45435
+    },
+    {
+        "bikeid": 17548,
+        "time_origin": 1671240464,
+        "lat_origin": 52.552116,
+        "long_origin": 13.382784,
+        "time_destination": 1671465982,
+        "lat_destination": 52.529844,
+        "long_destination": 13.410542
+    },
+    {
+        "bikeid": 14761,
+        "time_origin": 1671465005,
+        "lat_origin": 52.540813,
+        "long_origin": 13.426119,
+        "time_destination": 1671466286,
+        "lat_destination": 52.514071,
+        "long_destination": 13.422422
+    },
+    {
+        "bikeid": 18313,
+        "time_origin": 1671465920,
+        "lat_origin": 52.535924,
+        "long_origin": 13.397558,
+        "time_destination": 1671466469,
+        "lat_destination": 52.547671,
+        "long_destination": 13.404348
+    },
+    {
+        "bikeid": 13814,
+        "time_origin": 1671389292,
+        "lat_origin": 52.495338,
+        "long_origin": 13.402529,
+        "time_destination": 1671466530,
+        "lat_destination": 52.493782,
+        "long_destination": 13.42979
+    },
+    {
+        "bikeid": 18168,
+        "time_origin": 1671465737,
+        "lat_origin": 52.53252,
+        "long_origin": 13.438666,
+        "time_destination": 1671466530,
+        "lat_destination": 52.544058,
+        "long_destination": 13.422057
+    },
+    {
+        "bikeid": 16564,
+        "time_origin": 1671466164,
+        "lat_origin": 52.532618,
+        "long_origin": 13.365983,
+        "time_destination": 1671466591,
+        "lat_destination": 52.5268,
+        "long_destination": 13.369533
+    },
+    {
+        "bikeid": 14223,
+        "time_origin": 1671465494,
+        "lat_origin": 52.509813,
+        "long_origin": 13.346383,
+        "time_destination": 1671466896,
+        "lat_destination": 52.543978,
+        "long_destination": 13.373408
+    },
+    {
+        "bikeid": 16085,
+        "time_origin": 1671125433,
+        "lat_origin": 52.519236,
+        "long_origin": 13.396473,
+        "time_destination": 1671467140,
+        "lat_destination": 52.503956,
+        "long_destination": 13.338772
+    },
+    {
+        "bikeid": 16493,
+        "time_origin": 1671467445,
+        "lat_origin": 52.506502,
+        "long_origin": 13.337014,
+        "time_destination": 1671467506,
+        "lat_destination": 52.503836,
+        "long_destination": 13.337336
+    },
+    {
+        "bikeid": 19535,
+        "time_origin": 1671092337,
+        "lat_origin": 52.509831,
+        "long_origin": 13.462388,
+        "time_destination": 1671467628,
+        "lat_destination": 52.497036,
+        "long_destination": 13.431762
+    },
+    {
+        "bikeid": 14060,
+        "time_origin": 1671467140,
+        "lat_origin": 52.469484,
+        "long_origin": 13.343811,
+        "time_destination": 1671467689,
+        "lat_destination": 52.461987,
+        "long_destination": 13.325706
+    },
+    {
+        "bikeid": 18863,
+        "time_origin": 1670587107,
+        "lat_origin": 52.502449,
+        "long_origin": 13.329401,
+        "time_destination": 1671468055,
+        "lat_destination": 52.502791,
+        "long_destination": 13.406713
+    },
+    {
+        "bikeid": 15804,
+        "time_origin": 1671127263,
+        "lat_origin": 52.506258,
+        "long_origin": 13.351284,
+        "time_destination": 1671468116,
+        "lat_destination": 52.505111,
+        "long_destination": 13.333738
+    },
+    {
+        "bikeid": 18257,
+        "time_origin": 1671283312,
+        "lat_origin": 52.509996,
+        "long_origin": 13.397564,
+        "time_destination": 1671468177,
+        "lat_destination": 52.50372,
+        "long_destination": 13.410172
+    },
+    {
+        "bikeid": 19174,
+        "time_origin": 1671458417,
+        "lat_origin": 52.51212,
+        "long_origin": 13.392957,
+        "time_destination": 1671468299,
+        "lat_destination": 52.516293,
+        "long_destination": 13.40131
+    },
+    {
+        "bikeid": 18154,
+        "time_origin": 1671186357,
+        "lat_origin": 52.507067,
+        "long_origin": 13.35111,
+        "time_destination": 1671468360,
+        "lat_destination": 52.506578,
+        "long_destination": 13.333821
+    },
+    {
+        "bikeid": 16755,
+        "time_origin": 1671454100,
+        "lat_origin": 52.465462,
+        "long_origin": 13.329439,
+        "time_destination": 1671468422,
+        "lat_destination": 52.464756,
+        "long_destination": 13.340298
+    },
+    {
+        "bikeid": 18992,
+        "time_origin": 1670721578,
+        "lat_origin": 52.482876,
+        "long_origin": 13.431761,
+        "time_destination": 1671468726,
+        "lat_destination": 52.520071,
+        "long_destination": 13.415844
+    },
+    {
+        "bikeid": 19497,
+        "time_origin": 1670952388,
+        "lat_origin": 52.508351,
+        "long_origin": 13.47292,
+        "time_destination": 1671468788,
+        "lat_destination": 52.510271,
+        "long_destination": 13.404039
+    },
+    {
+        "bikeid": 19203,
+        "time_origin": 1671467994,
+        "lat_origin": 52.512587,
+        "long_origin": 13.267869,
+        "time_destination": 1671469031,
+        "lat_destination": 52.510111,
+        "long_destination": 13.270753
+    },
+    {
+        "bikeid": 14750,
+        "time_origin": 1671323267,
+        "lat_origin": 52.509684,
+        "long_origin": 13.375409,
+        "time_destination": 1671469214,
+        "lat_destination": 52.509636,
+        "long_destination": 13.36336
+    },
+    {
+        "bikeid": 16532,
+        "time_origin": 1671279164,
+        "lat_origin": 52.528924,
+        "long_origin": 13.445508,
+        "time_destination": 1671469214,
+        "lat_destination": 52.508333,
+        "long_destination": 13.453684
+    },
+    {
+        "bikeid": 18330,
+        "time_origin": 1671462260,
+        "lat_origin": 52.485618,
+        "long_origin": 13.38573,
+        "time_destination": 1671469275,
+        "lat_destination": 52.49004,
+        "long_destination": 13.352273
+    },
+    {
+        "bikeid": 14364,
+        "time_origin": 1671119055,
+        "lat_origin": 52.499489,
+        "long_origin": 13.32159,
+        "time_destination": 1671469580,
+        "lat_destination": 52.499382,
+        "long_destination": 13.312243
+    },
+    {
+        "bikeid": 19116,
+        "time_origin": 1671467385,
+        "lat_origin": 52.548618,
+        "long_origin": 13.405066,
+        "time_destination": 1671469702,
+        "lat_destination": 52.496622,
+        "long_destination": 13.424424
+    },
+    {
+        "bikeid": 17024,
+        "time_origin": 1671386852,
+        "lat_origin": 52.511484,
+        "long_origin": 13.416007,
+        "time_destination": 1671469946,
+        "lat_destination": 52.528551,
+        "long_destination": 13.409719
+    },
+    {
+        "bikeid": 19334,
+        "time_origin": 1670661981,
+        "lat_origin": 52.502516,
+        "long_origin": 13.440993,
+        "time_destination": 1671470068,
+        "lat_destination": 52.48316,
+        "long_destination": 13.431311
+    },
+    {
+        "bikeid": 18683,
+        "time_origin": 1671394843,
+        "lat_origin": 52.495076,
+        "long_origin": 13.415109,
+        "time_destination": 1671470129,
+        "lat_destination": 52.483098,
+        "long_destination": 13.431064
+    },
+    {
+        "bikeid": 19321,
+        "time_origin": 1671466104,
+        "lat_origin": 52.516471,
+        "long_origin": 13.454348,
+        "time_destination": 1671470129,
+        "lat_destination": 52.520751,
+        "long_destination": 13.451927
+    },
+    {
+        "bikeid": 15707,
+        "time_origin": 1671214051,
+        "lat_origin": 52.532364,
+        "long_origin": 13.388009,
+        "time_destination": 1671470251,
+        "lat_destination": 52.488502,
+        "long_destination": 13.342436
+    },
+    {
+        "bikeid": 16928,
+        "time_origin": 1671371907,
+        "lat_origin": 52.473756,
+        "long_origin": 13.455756,
+        "time_destination": 1671470251,
+        "lat_destination": 52.478596,
+        "long_destination": 13.452512
+    },
+    {
+        "bikeid": 19119,
+        "time_origin": 1670311439,
+        "lat_origin": 52.501107,
+        "long_origin": 13.337204,
+        "time_destination": 1671470373,
+        "lat_destination": 52.498982,
+        "long_destination": 13.413854
+    },
+    {
+        "bikeid": 15190,
+        "time_origin": 1671312470,
+        "lat_origin": 52.513062,
+        "long_origin": 13.406872,
+        "time_destination": 1671470434,
+        "lat_destination": 52.514276,
+        "long_destination": 13.422949
+    },
+    {
+        "bikeid": 18456,
+        "time_origin": 1670622096,
+        "lat_origin": 52.520947,
+        "long_origin": 13.39174,
+        "time_destination": 1671470434,
+        "lat_destination": 52.510564,
+        "long_destination": 13.468558
+    },
+    {
+        "bikeid": 18133,
+        "time_origin": 1671470068,
+        "lat_origin": 52.512071,
+        "long_origin": 13.448142,
+        "time_destination": 1671470495,
+        "lat_destination": 52.512516,
+        "long_destination": 13.458157
+    },
+    {
+        "bikeid": 19248,
+        "time_origin": 1671469885,
+        "lat_origin": 52.536916,
+        "long_origin": 13.421081,
+        "time_destination": 1671470495,
+        "lat_destination": 52.525613,
+        "long_destination": 13.407007
+    },
+    {
+        "bikeid": 17836,
+        "time_origin": 1671190505,
+        "lat_origin": 52.534653,
+        "long_origin": 13.344217,
+        "time_destination": 1671470739,
+        "lat_destination": 52.527084,
+        "long_destination": 13.369612
+    },
+    {
+        "bikeid": 16767,
+        "time_origin": 1671432994,
+        "lat_origin": 52.523453,
+        "long_origin": 13.342041,
+        "time_destination": 1671470800,
+        "lat_destination": 52.526711,
+        "long_destination": 13.370349
+    },
+    {
+        "bikeid": 19855,
+        "time_origin": 1671470191,
+        "lat_origin": 52.538493,
+        "long_origin": 13.396289,
+        "time_destination": 1671470861,
+        "lat_destination": 52.526782,
+        "long_destination": 13.371566
+    },
+    {
+        "bikeid": 18168,
+        "time_origin": 1671470251,
+        "lat_origin": 52.543902,
+        "long_origin": 13.42185,
+        "time_destination": 1671470923,
+        "lat_destination": 52.532471,
+        "long_destination": 13.437907
+    },
+    {
+        "bikeid": 17633,
+        "time_origin": 1671188675,
+        "lat_origin": 52.496956,
+        "long_origin": 13.399736,
+        "time_destination": 1671471105,
+        "lat_destination": 52.516667,
+        "long_destination": 13.387089
+    },
+    {
+        "bikeid": 19109,
+        "time_origin": 1671454161,
+        "lat_origin": 52.511711,
+        "long_origin": 13.389984,
+        "time_destination": 1671471105,
+        "lat_destination": 52.508587,
+        "long_destination": 13.307481
+    },
+    {
+        "bikeid": 19071,
+        "time_origin": 1670685466,
+        "lat_origin": 52.545987,
+        "long_origin": 13.419252,
+        "time_destination": 1671471166,
+        "lat_destination": 52.523724,
+        "long_destination": 13.370212
+    },
+    {
+        "bikeid": 19582,
+        "time_origin": 1671447879,
+        "lat_origin": 52.500756,
+        "long_origin": 13.442713,
+        "time_destination": 1671471166,
+        "lat_destination": 52.493587,
+        "long_destination": 13.445447
+    },
+    {
+        "bikeid": 14976,
+        "time_origin": 1671458417,
+        "lat_origin": 52.532347,
+        "long_origin": 13.412441,
+        "time_destination": 1671471471,
+        "lat_destination": 52.543858,
+        "long_destination": 13.398089
+    },
+    {
+        "bikeid": 13699,
+        "time_origin": 1671267879,
+        "lat_origin": 52.519582,
+        "long_origin": 13.35623,
+        "time_destination": 1671471532,
+        "lat_destination": 52.531351,
+        "long_destination": 13.400788
+    },
+    {
+        "bikeid": 19213,
+        "time_origin": 1671434702,
+        "lat_origin": 52.4918,
+        "long_origin": 13.398129,
+        "time_destination": 1671471593,
+        "lat_destination": 52.49336,
+        "long_destination": 13.427962
+    },
+    {
+        "bikeid": 16815,
+        "time_origin": 1671138731,
+        "lat_origin": 52.488569,
+        "long_origin": 13.410527,
+        "time_destination": 1671471715,
+        "lat_destination": 52.478689,
+        "long_destination": 13.42051
+    },
+    {
+        "bikeid": 17006,
+        "time_origin": 1671470007,
+        "lat_origin": 52.508538,
+        "long_origin": 13.376773,
+        "time_destination": 1671471715,
+        "lat_destination": 52.527573,
+        "long_destination": 13.328904
+    },
+    {
+        "bikeid": 17861,
+        "time_origin": 1671470617,
+        "lat_origin": 52.524053,
+        "long_origin": 13.370483,
+        "time_destination": 1671471776,
+        "lat_destination": 52.499333,
+        "long_destination": 13.342802
+    },
+    {
+        "bikeid": 19511,
+        "time_origin": 1671004504,
+        "lat_origin": 52.519653,
+        "long_origin": 13.308559,
+        "time_destination": 1671471776,
+        "lat_destination": 52.527853,
+        "long_destination": 13.372131
+    },
+    {
+        "bikeid": 17116,
+        "time_origin": 1671463175,
+        "lat_origin": 52.493364,
+        "long_origin": 13.321916,
+        "time_destination": 1671471898,
+        "lat_destination": 52.501693,
+        "long_destination": 13.322552
+    },
+    {
+        "bikeid": 17296,
+        "time_origin": 1671179952,
+        "lat_origin": 52.501653,
+        "long_origin": 13.450377,
+        "time_destination": 1671471898,
+        "lat_destination": 52.486653,
+        "long_destination": 13.446548
+    },
+    {
+        "bikeid": 18548,
+        "time_origin": 1671395209,
+        "lat_origin": 52.523596,
+        "long_origin": 13.370121,
+        "time_destination": 1671472143,
+        "lat_destination": 52.484871,
+        "long_destination": 13.367753
+    },
+    {
+        "bikeid": 18635,
+        "time_origin": 1671470678,
+        "lat_origin": 52.50988,
+        "long_origin": 13.398619,
+        "time_destination": 1671472325,
+        "lat_destination": 52.495907,
+        "long_destination": 13.467954
+    },
+    {
+        "bikeid": 19047,
+        "time_origin": 1671471959,
+        "lat_origin": 52.515338,
+        "long_origin": 13.436712,
+        "time_destination": 1671472325,
+        "lat_destination": 52.515876,
+        "long_destination": 13.451231
+    },
+    {
+        "bikeid": 18478,
+        "time_origin": 1670958976,
+        "lat_origin": 52.434213,
+        "long_origin": 13.359204,
+        "time_destination": 1671472386,
+        "lat_destination": 52.498284,
+        "long_destination": 13.425442
+    },
+    {
+        "bikeid": 15157,
+        "time_origin": 1671449647,
+        "lat_origin": 52.517556,
+        "long_origin": 13.415377,
+        "time_destination": 1671472447,
+        "lat_destination": 52.524258,
+        "long_destination": 13.408964
+    },
+    {
+        "bikeid": 17969,
+        "time_origin": 1671471410,
+        "lat_origin": 52.48348,
+        "long_origin": 13.444816,
+        "time_destination": 1671472447,
+        "lat_destination": 52.481377,
+        "long_destination": 13.434592
+    },
+    {
+        "bikeid": 18565,
+        "time_origin": 1670409163,
+        "lat_origin": 52.515747,
+        "long_origin": 13.348996,
+        "time_destination": 1671472447,
+        "lat_destination": 52.478809,
+        "long_destination": 13.450479
+    },
+    {
+        "bikeid": 15968,
+        "time_origin": 1671436227,
+        "lat_origin": 52.503542,
+        "long_origin": 13.392259,
+        "time_destination": 1671472569,
+        "lat_destination": 52.505484,
+        "long_destination": 13.39282
+    },
+    {
+        "bikeid": 16946,
+        "time_origin": 1671292828,
+        "lat_origin": 52.532609,
+        "long_origin": 13.361834,
+        "time_destination": 1671472630,
+        "lat_destination": 52.528551,
+        "long_destination": 13.392342
+    },
+    {
+        "bikeid": 16747,
+        "time_origin": 1671359524,
+        "lat_origin": 52.501253,
+        "long_origin": 13.344372,
+        "time_destination": 1671472692,
+        "lat_destination": 52.503453,
+        "long_destination": 13.342307
+    },
+    {
+        "bikeid": 18510,
+        "time_origin": 1671471227,
+        "lat_origin": 52.527502,
+        "long_origin": 13.360836,
+        "time_destination": 1671472692,
+        "lat_destination": 52.502578,
+        "long_destination": 13.355868
+    },
+    {
+        "bikeid": 16076,
+        "time_origin": 1671472753,
+        "lat_origin": 52.526556,
+        "long_origin": 13.381101,
+        "time_destination": 1671472813,
+        "lat_destination": 52.524484,
+        "long_destination": 13.378954
+    },
+    {
+        "bikeid": 17007,
+        "time_origin": 1671472753,
+        "lat_origin": 52.521449,
+        "long_origin": 13.404329,
+        "time_destination": 1671472874,
+        "lat_destination": 52.521493,
+        "long_destination": 13.408749
+    },
+    {
+        "bikeid": 19197,
+        "time_origin": 1670831304,
+        "lat_origin": 52.518418,
+        "long_origin": 13.454037,
+        "time_destination": 1671472936,
+        "lat_destination": 52.491253,
+        "long_destination": 13.425244
+    },
+    {
+        "bikeid": 16026,
+        "time_origin": 1671134827,
+        "lat_origin": 52.490133,
+        "long_origin": 13.430896,
+        "time_destination": 1671473118,
+        "lat_destination": 52.475284,
+        "long_destination": 13.446731
+    },
+    {
+        "bikeid": 19214,
+        "time_origin": 1671238207,
+        "lat_origin": 52.548729,
+        "long_origin": 13.450088,
+        "time_destination": 1671473179,
+        "lat_destination": 52.533227,
+        "long_destination": 13.428656
+    },
+    {
+        "bikeid": 10895,
+        "time_origin": 1670482754,
+        "lat_origin": 52.49428,
+        "long_origin": 13.437982,
+        "time_destination": 1671473301,
+        "lat_destination": 52.495769,
+        "long_destination": 13.417601
+    },
+    {
+        "bikeid": 17282,
+        "time_origin": 1670598123,
+        "lat_origin": 52.52468,
+        "long_origin": 13.368282,
+        "time_destination": 1671473301,
+        "lat_destination": 52.506502,
+        "long_destination": 13.447977
+    },
+    {
+        "bikeid": 17828,
+        "time_origin": 1671472386,
+        "lat_origin": 52.51752,
+        "long_origin": 13.394876,
+        "time_destination": 1671473362,
+        "lat_destination": 52.538142,
+        "long_destination": 13.41252
+    },
+    {
+        "bikeid": 17638,
+        "time_origin": 1670939700,
+        "lat_origin": 52.508,
+        "long_origin": 13.306174,
+        "time_destination": 1671473484,
+        "lat_destination": 52.481942,
+        "long_destination": 13.430161
+    },
+    {
+        "bikeid": 16409,
+        "time_origin": 1671363611,
+        "lat_origin": 52.496022,
+        "long_origin": 13.434987,
+        "time_destination": 1671473667,
+        "lat_destination": 52.494329,
+        "long_destination": 13.42559
+    },
+    {
+        "bikeid": 18057,
+        "time_origin": 1671393318,
+        "lat_origin": 52.493418,
+        "long_origin": 13.396018,
+        "time_destination": 1671473728,
+        "lat_destination": 52.491356,
+        "long_destination": 13.387172
+    },
+    {
+        "bikeid": 19232,
+        "time_origin": 1671473546,
+        "lat_origin": 52.529378,
+        "long_origin": 13.396499,
+        "time_destination": 1671473911,
+        "lat_destination": 52.522787,
+        "long_destination": 13.40101
+    },
+    {
+        "bikeid": 19611,
+        "time_origin": 1671300575,
+        "lat_origin": 52.522347,
+        "long_origin": 13.373227,
+        "time_destination": 1671473911,
+        "lat_destination": 52.544684,
+        "long_destination": 13.42693
+    },
+    {
+        "bikeid": 15793,
+        "time_origin": 1671325768,
+        "lat_origin": 52.480956,
+        "long_origin": 13.429677,
+        "time_destination": 1671474033,
+        "lat_destination": 52.468507,
+        "long_destination": 13.435881
+    },
+    {
+        "bikeid": 17817,
+        "time_origin": 1670603552,
+        "lat_origin": 52.540218,
+        "long_origin": 13.388297,
+        "time_destination": 1671474033,
+        "lat_destination": 52.548689,
+        "long_destination": 13.401748
+    },
+    {
+        "bikeid": 18775,
+        "time_origin": 1671472996,
+        "lat_origin": 52.517147,
+        "long_origin": 13.438737,
+        "time_destination": 1671474033,
+        "lat_destination": 52.497178,
+        "long_destination": 13.431492
+    },
+    {
+        "bikeid": 17470,
+        "time_origin": 1671388499,
+        "lat_origin": 52.517244,
+        "long_origin": 13.432961,
+        "time_destination": 1671474094,
+        "lat_destination": 52.515,
+        "long_destination": 13.418701
+    },
+    {
+        "bikeid": 19116,
+        "time_origin": 1671471044,
+        "lat_origin": 52.49668,
+        "long_origin": 13.424337,
+        "time_destination": 1671474155,
+        "lat_destination": 52.499018,
+        "long_destination": 13.302664
+    },
+    {
+        "bikeid": 14725,
+        "time_origin": 1671472569,
+        "lat_origin": 52.482164,
+        "long_origin": 13.440486,
+        "time_destination": 1671474216,
+        "lat_destination": 52.510676,
+        "long_destination": 13.376201
+    },
+    {
+        "bikeid": 15630,
+        "time_origin": 1671376726,
+        "lat_origin": 52.542618,
+        "long_origin": 13.427401,
+        "time_destination": 1671474460,
+        "lat_destination": 52.521827,
+        "long_destination": 13.386766
+    },
+    {
+        "bikeid": 19811,
+        "time_origin": 1670853398,
+        "lat_origin": 52.524787,
+        "long_origin": 13.34834,
+        "time_destination": 1671474521,
+        "lat_destination": 52.517507,
+        "long_destination": 13.367127
+    },
+    {
+        "bikeid": 18023,
+        "time_origin": 1671280262,
+        "lat_origin": 52.490916,
+        "long_origin": 13.423842,
+        "time_destination": 1671474948,
+        "lat_destination": 52.500876,
+        "long_destination": 13.404886
+    },
+    {
+        "bikeid": 15793,
+        "time_origin": 1671474094,
+        "lat_origin": 52.468498,
+        "long_origin": 13.435893,
+        "time_destination": 1671475070,
+        "lat_destination": 52.491942,
+        "long_destination": 13.416709
+    },
+    {
+        "bikeid": 15648,
+        "time_origin": 1671281726,
+        "lat_origin": 52.507942,
+        "long_origin": 13.453622,
+        "time_destination": 1671475375,
+        "lat_destination": 52.498284,
+        "long_destination": 13.405878
+    },
+    {
+        "bikeid": 13938,
+        "time_origin": 1671074952,
+        "lat_origin": 52.507267,
+        "long_origin": 13.340056,
+        "time_destination": 1671475863,
+        "lat_destination": 52.506138,
+        "long_destination": 13.343221
+    },
+    {
+        "bikeid": 15966,
+        "time_origin": 1671455550,
+        "lat_origin": 52.493902,
+        "long_origin": 13.437404,
+        "time_destination": 1671475863,
+        "lat_destination": 52.529684,
+        "long_destination": 13.395123
+    },
+    {
+        "bikeid": 18931,
+        "time_origin": 1671454954,
+        "lat_origin": 52.532053,
+        "long_origin": 13.349442,
+        "time_destination": 1671475985,
+        "lat_destination": 52.526547,
+        "long_destination": 13.335644
+    },
+    {
+        "bikeid": 15980,
+        "time_origin": 1671476107,
+        "lat_origin": 52.530973,
+        "long_origin": 13.463546,
+        "time_destination": 1671476229,
+        "lat_destination": 52.528809,
+        "long_destination": 13.456301
+    },
+    {
+        "bikeid": 16797,
+        "time_origin": 1670922193,
+        "lat_origin": 52.524529,
+        "long_origin": 13.387569,
+        "time_destination": 1671476412,
+        "lat_destination": 52.485093,
+        "long_destination": 13.427268
+    },
+    {
+        "bikeid": 14373,
+        "time_origin": 1671476412,
+        "lat_origin": 52.512507,
+        "long_origin": 13.439634,
+        "time_destination": 1671476473,
+        "lat_destination": 52.514453,
+        "long_destination": 13.439718
+    },
+    {
+        "bikeid": 14373,
+        "time_origin": 1671476473,
+        "lat_origin": 52.514453,
+        "long_origin": 13.439718,
+        "time_destination": 1671476534,
+        "lat_destination": 52.512551,
+        "long_destination": 13.439699
+    },
+    {
+        "bikeid": 18868,
+        "time_origin": 1670869136,
+        "lat_origin": 52.548764,
+        "long_origin": 13.505266,
+        "time_destination": 1671476534,
+        "lat_destination": 52.481307,
+        "long_destination": 13.433552
+    },
+    {
+        "bikeid": 15784,
+        "time_origin": 1671055207,
+        "lat_origin": 52.528298,
+        "long_origin": 13.318312,
+        "time_destination": 1671476595,
+        "lat_destination": 52.518978,
+        "long_destination": 13.332433
+    },
+    {
+        "bikeid": 15980,
+        "time_origin": 1671476778,
+        "lat_origin": 52.528947,
+        "long_origin": 13.45616,
+        "time_destination": 1671476900,
+        "lat_destination": 52.52964,
+        "long_destination": 13.460343
+    },
+    {
+        "bikeid": 16399,
+        "time_origin": 1671038176,
+        "lat_origin": 52.519213,
+        "long_origin": 13.452703,
+        "time_destination": 1671477144,
+        "lat_destination": 52.553698,
+        "long_destination": 13.357349
+    },
+    {
+        "bikeid": 18164,
+        "time_origin": 1670868343,
+        "lat_origin": 52.512418,
+        "long_origin": 13.4337,
+        "time_destination": 1671477205,
+        "lat_destination": 52.501564,
+        "long_destination": 13.362067
+    },
+    {
+        "bikeid": 18164,
+        "time_origin": 1671477205,
+        "lat_origin": 52.501564,
+        "long_origin": 13.362067,
+        "time_destination": 1671477266,
+        "lat_destination": 52.5012,
+        "long_destination": 13.358773
+    },
+    {
+        "bikeid": 10991,
+        "time_origin": 1671476229,
+        "lat_origin": 52.509658,
+        "long_origin": 13.434222,
+        "time_destination": 1671477327,
+        "lat_destination": 52.487542,
+        "long_destination": 13.432131
+    },
+    {
+        "bikeid": 19682,
+        "time_origin": 1671075013,
+        "lat_origin": 52.488698,
+        "long_origin": 13.424776,
+        "time_destination": 1671477327,
+        "lat_destination": 52.529089,
+        "long_destination": 13.432822
+    },
+    {
+        "bikeid": 19028,
+        "time_origin": 1670322877,
+        "lat_origin": 52.525373,
+        "long_origin": 13.409259,
+        "time_destination": 1671477511,
+        "lat_destination": 52.540853,
+        "long_destination": 13.41932
+    },
+    {
+        "bikeid": 18168,
+        "time_origin": 1671477511,
+        "lat_origin": 52.532511,
+        "long_origin": 13.437766,
+        "time_destination": 1671477571,
+        "lat_destination": 52.530249,
+        "long_destination": 13.438446
+    },
+    {
+        "bikeid": 18643,
+        "time_origin": 1671381302,
+        "lat_origin": 52.548871,
+        "long_origin": 13.388753,
+        "time_destination": 1671477571,
+        "lat_destination": 52.528587,
+        "long_destination": 13.393919
+    },
+    {
+        "bikeid": 18060,
+        "time_origin": 1671476046,
+        "lat_origin": 52.499636,
+        "long_origin": 13.388396,
+        "time_destination": 1671477632,
+        "lat_destination": 52.5226,
+        "long_destination": 13.44998
+    },
+    {
+        "bikeid": 18168,
+        "time_origin": 1671477571,
+        "lat_origin": 52.530249,
+        "long_origin": 13.438446,
+        "time_destination": 1671477632,
+        "lat_destination": 52.5326,
+        "long_destination": 13.438049
+    },
+    {
+        "bikeid": 19762,
+        "time_origin": 1671079344,
+        "lat_origin": 52.542667,
+        "long_origin": 13.392181,
+        "time_destination": 1671477632,
+        "lat_destination": 52.528773,
+        "long_destination": 13.40283
+    },
+    {
+        "bikeid": 19357,
+        "time_origin": 1671013410,
+        "lat_origin": 52.521031,
+        "long_origin": 13.318811,
+        "time_destination": 1671477693,
+        "lat_destination": 52.51992,
+        "long_destination": 13.391819
+    },
+    {
+        "bikeid": 15755,
+        "time_origin": 1671019144,
+        "lat_origin": 52.478467,
+        "long_origin": 13.363313,
+        "time_destination": 1671477815,
+        "lat_destination": 52.498462,
+        "long_destination": 13.439483
+    },
+    {
+        "bikeid": 17455,
+        "time_origin": 1671477815,
+        "lat_origin": 52.522849,
+        "long_origin": 13.401062,
+        "time_destination": 1671477876,
+        "lat_destination": 52.520898,
+        "long_destination": 13.39761
+    },
+    {
+        "bikeid": 19292,
+        "time_origin": 1671009140,
+        "lat_origin": 52.490484,
+        "long_origin": 13.418424,
+        "time_destination": 1671478120,
+        "lat_destination": 52.48296,
+        "long_destination": 13.4372
+    },
+    {
+        "bikeid": 18276,
+        "time_origin": 1671218992,
+        "lat_origin": 52.540658,
+        "long_origin": 13.412016,
+        "time_destination": 1671478730,
+        "lat_destination": 52.538649,
+        "long_destination": 13.408541
+    },
+    {
+        "bikeid": 18276,
+        "time_origin": 1671478730,
+        "lat_origin": 52.538649,
+        "long_origin": 13.408541,
+        "time_destination": 1671478791,
+        "lat_destination": 52.540747,
+        "long_destination": 13.412554
+    },
+    {
+        "bikeid": 18688,
+        "time_origin": 1671478486,
+        "lat_origin": 52.527582,
+        "long_origin": 13.403177,
+        "time_destination": 1671478791,
+        "lat_destination": 52.525267,
+        "long_destination": 13.411032
+    },
+    {
+        "bikeid": 15664,
+        "time_origin": 1671279286,
+        "lat_origin": 52.521151,
+        "long_origin": 13.403509,
+        "time_destination": 1671478974,
+        "lat_destination": 52.485831,
+        "long_destination": 13.434421
+    },
+    {
+        "bikeid": 10924,
+        "time_origin": 1671224238,
+        "lat_origin": 52.488956,
+        "long_origin": 13.454436,
+        "time_destination": 1671479280,
+        "lat_destination": 52.496616,
+        "long_destination": 13.450139
+    },
+    {
+        "bikeid": 14227,
+        "time_origin": 1671295329,
+        "lat_origin": 52.491684,
+        "long_origin": 13.360618,
+        "time_destination": 1671479280,
+        "lat_destination": 52.504671,
+        "long_destination": 13.442597
+    },
+    {
+        "bikeid": 19137,
+        "time_origin": 1671372639,
+        "lat_origin": 52.492009,
+        "long_origin": 13.435928,
+        "time_destination": 1671479280,
+        "lat_destination": 52.50468,
+        "long_destination": 13.442271
+    },
+    {
+        "bikeid": 19692,
+        "time_origin": 1671288131,
+        "lat_origin": 52.517889,
+        "long_origin": 13.380792,
+        "time_destination": 1671479280,
+        "lat_destination": 52.514356,
+        "long_destination": 13.389191
+    },
+    {
+        "bikeid": 17643,
+        "time_origin": 1671060392,
+        "lat_origin": 52.519724,
+        "long_origin": 13.38841,
+        "time_destination": 1671479462,
+        "lat_destination": 52.518204,
+        "long_destination": 13.505657
+    },
+    {
+        "bikeid": 19782,
+        "time_origin": 1671366173,
+        "lat_origin": 52.4974,
+        "long_origin": 13.464752,
+        "time_destination": 1671479584,
+        "lat_destination": 52.492244,
+        "long_destination": 13.422103
+    },
+    {
+        "bikeid": 15562,
+        "time_origin": 1671280750,
+        "lat_origin": 52.485587,
+        "long_origin": 13.372137,
+        "time_destination": 1671479706,
+        "lat_destination": 52.478262,
+        "long_destination": 13.364466
+    },
+    {
+        "bikeid": 18282,
+        "time_origin": 1670623194,
+        "lat_origin": 52.50744,
+        "long_origin": 13.41439,
+        "time_destination": 1671479706,
+        "lat_destination": 52.483009,
+        "long_destination": 13.437404
+    },
+    {
+        "bikeid": 18936,
+        "time_origin": 1671363062,
+        "lat_origin": 52.497916,
+        "long_origin": 13.413208,
+        "time_destination": 1671479767,
+        "lat_destination": 52.515467,
+        "long_destination": 13.459528
+    },
+    {
+        "bikeid": 17081,
+        "time_origin": 1671117103,
+        "lat_origin": 52.503302,
+        "long_origin": 13.411631,
+        "time_destination": 1671479889,
+        "lat_destination": 52.485018,
+        "long_destination": 13.43187
+    },
+    {
+        "bikeid": 15793,
+        "time_origin": 1671478486,
+        "lat_origin": 52.492009,
+        "long_origin": 13.416667,
+        "time_destination": 1671479950,
+        "lat_destination": 52.468751,
+        "long_destination": 13.437274
+    },
+    {
+        "bikeid": 18460,
+        "time_origin": 1671479889,
+        "lat_origin": 52.492267,
+        "long_origin": 13.425419,
+        "time_destination": 1671480438,
+        "lat_destination": 52.482796,
+        "long_destination": 13.441696
+    },
+    {
+        "bikeid": 19021,
+        "time_origin": 1671215454,
+        "lat_origin": 52.497271,
+        "long_origin": 13.431348,
+        "time_destination": 1671480499,
+        "lat_destination": 52.485853,
+        "long_destination": 13.442322
+    },
+    {
+        "bikeid": 17672,
+        "time_origin": 1671090385,
+        "lat_origin": 52.521622,
+        "long_origin": 13.419568,
+        "time_destination": 1671480560,
+        "lat_destination": 52.483773,
+        "long_destination": 13.429541
+    },
+    {
+        "bikeid": 19044,
+        "time_origin": 1671479219,
+        "lat_origin": 52.496616,
+        "long_origin": 13.450139,
+        "time_destination": 1671480560,
+        "lat_destination": 52.494889,
+        "long_destination": 13.428481
+    },
+    {
+        "bikeid": 19308,
+        "time_origin": 1671090019,
+        "lat_origin": 52.501471,
+        "long_origin": 13.398181,
+        "time_destination": 1671480987,
+        "lat_destination": 52.5142,
+        "long_destination": 13.396161
+    },
+    {
+        "bikeid": 19577,
+        "time_origin": 1671479158,
+        "lat_origin": 52.520818,
+        "long_origin": 13.445579,
+        "time_destination": 1671481231,
+        "lat_destination": 52.497724,
+        "long_destination": 13.428833
+    },
+    {
+        "bikeid": 17660,
+        "time_origin": 1670874604,
+        "lat_origin": 52.492231,
+        "long_origin": 13.428009,
+        "time_destination": 1671481536,
+        "lat_destination": 52.510556,
+        "long_destination": 13.424493
+    },
+    {
+        "bikeid": 17095,
+        "time_origin": 1671368186,
+        "lat_origin": 52.49732,
+        "long_origin": 13.346139,
+        "time_destination": 1671481841,
+        "lat_destination": 52.510636,
+        "long_destination": 13.288509
+    },
+    {
+        "bikeid": 17095,
+        "time_origin": 1671481841,
+        "lat_origin": 52.510636,
+        "long_origin": 13.288509,
+        "time_destination": 1671481902,
+        "lat_destination": 52.513742,
+        "long_destination": 13.288031
+    },
+    {
+        "bikeid": 19117,
+        "time_origin": 1671481902,
+        "lat_origin": 52.508667,
+        "long_origin": 13.29606,
+        "time_destination": 1671481963,
+        "lat_destination": 52.505622,
+        "long_destination": 13.294788
+    },
+    {
+        "bikeid": 10864,
+        "time_origin": 1671282702,
+        "lat_origin": 52.510351,
+        "long_origin": 13.458439,
+        "time_destination": 1671482085,
+        "lat_destination": 52.524138,
+        "long_destination": 13.439272
+    },
+    {
+        "bikeid": 19117,
+        "time_origin": 1671482085,
+        "lat_origin": 52.50472,
+        "long_origin": 13.294346,
+        "time_destination": 1671482146,
+        "lat_destination": 52.508898,
+        "long_destination": 13.296678
+    },
+    {
+        "bikeid": 16945,
+        "time_origin": 1671446414,
+        "lat_origin": 52.507169,
+        "long_origin": 13.391848,
+        "time_destination": 1671482268,
+        "lat_destination": 52.510733,
+        "long_destination": 13.391689
+    },
+    {
+        "bikeid": 16409,
+        "time_origin": 1671473667,
+        "lat_origin": 52.494329,
+        "long_origin": 13.42559,
+        "time_destination": 1671482512,
+        "lat_destination": 52.502556,
+        "long_destination": 13.467824
+    },
+    {
+        "bikeid": 19829,
+        "time_origin": 1670686442,
+        "lat_origin": 52.528271,
+        "long_origin": 13.424658,
+        "time_destination": 1671483061,
+        "lat_destination": 52.528858,
+        "long_destination": 13.390646
+    },
+    {
+        "bikeid": 16781,
+        "time_origin": 1669583552,
+        "lat_origin": 52.553076,
+        "long_origin": 13.356372,
+        "time_destination": 1671483122,
+        "lat_destination": 52.530493,
+        "long_destination": 13.381613
+    },
+    {
+        "bikeid": 17095,
+        "time_origin": 1671482695,
+        "lat_origin": 52.513742,
+        "long_origin": 13.288031,
+        "time_destination": 1671483183,
+        "lat_destination": 52.524667,
+        "long_destination": 13.287331
+    },
+    {
+        "bikeid": 16371,
+        "time_origin": 1671098437,
+        "lat_origin": 52.531129,
+        "long_origin": 13.399791,
+        "time_destination": 1671483244,
+        "lat_destination": 52.530267,
+        "long_destination": 13.405664
+    },
+    {
+        "bikeid": 16767,
+        "time_origin": 1671470983,
+        "lat_origin": 52.526422,
+        "long_origin": 13.369428,
+        "time_destination": 1671483244,
+        "lat_destination": 52.525844,
+        "long_destination": 13.317458
+    },
+    {
+        "bikeid": 19788,
+        "time_origin": 1671471471,
+        "lat_origin": 52.530502,
+        "long_origin": 13.400377,
+        "time_destination": 1671483488,
+        "lat_destination": 52.535578,
+        "long_destination": 13.439579
+    },
+    {
+        "bikeid": 19044,
+        "time_origin": 1671483549,
+        "lat_origin": 52.494858,
+        "long_origin": 13.428679,
+        "time_destination": 1671484220,
+        "lat_destination": 52.496329,
+        "long_destination": 13.450747
+    },
+    {
+        "bikeid": 14179,
+        "time_origin": 1671121884,
+        "lat_origin": 52.526391,
+        "long_origin": 13.343753,
+        "time_destination": 1671484403,
+        "lat_destination": 52.534044,
+        "long_destination": 13.361348
+    },
+    {
+        "bikeid": 10963,
+        "time_origin": 1671184100,
+        "lat_origin": 52.510009,
+        "long_origin": 13.398749,
+        "time_destination": 1671484525,
+        "lat_destination": 52.53028,
+        "long_destination": 13.405628
+    },
+    {
+        "bikeid": 16964,
+        "time_origin": 1671484464,
+        "lat_origin": 52.502564,
+        "long_origin": 13.441398,
+        "time_destination": 1671484525,
+        "lat_destination": 52.505369,
+        "long_destination": 13.441769
+    },
+    {
+        "bikeid": 19172,
+        "time_origin": 1671117713,
+        "lat_origin": 52.50716,
+        "long_origin": 13.441206,
+        "time_destination": 1671484708,
+        "lat_destination": 52.50516,
+        "long_destination": 13.445736
+    },
+    {
+        "bikeid": 16964,
+        "time_origin": 1671484708,
+        "lat_origin": 52.505249,
+        "long_origin": 13.441681,
+        "time_destination": 1671484770,
+        "lat_destination": 52.503782,
+        "long_destination": 13.444577
+    },
+    {
+        "bikeid": 16111,
+        "time_origin": 1671236499,
+        "lat_origin": 52.504427,
+        "long_origin": 13.448316,
+        "time_destination": 1671485013,
+        "lat_destination": 52.486729,
+        "long_destination": 13.424121
+    },
+    {
+        "bikeid": 10918,
+        "time_origin": 1671458600,
+        "lat_origin": 52.487111,
+        "long_origin": 13.432601,
+        "time_destination": 1671485135,
+        "lat_destination": 52.50512,
+        "long_destination": 13.465208
+    },
+    {
+        "bikeid": 19582,
+        "time_origin": 1671484708,
+        "lat_origin": 52.493578,
+        "long_origin": 13.445327,
+        "time_destination": 1671485562,
+        "lat_destination": 52.480747,
+        "long_destination": 13.445703
+    },
+    {
+        "bikeid": 14382,
+        "time_origin": 1670447654,
+        "lat_origin": 52.518996,
+        "long_origin": 13.46938,
+        "time_destination": 1671485867,
+        "lat_destination": 52.496116,
+        "long_destination": 13.428498
+    },
+    {
+        "bikeid": 15188,
+        "time_origin": 1670413860,
+        "lat_origin": 52.495436,
+        "long_origin": 13.444206,
+        "time_destination": 1671485867,
+        "lat_destination": 52.50716,
+        "long_destination": 13.422574
+    },
+    {
+        "bikeid": 16128,
+        "time_origin": 1671473484,
+        "lat_origin": 52.538129,
+        "long_origin": 13.395581,
+        "time_destination": 1671486416,
+        "lat_destination": 52.54096,
+        "long_destination": 13.410238
+    },
+    {
+        "bikeid": 18675,
+        "time_origin": 1671089165,
+        "lat_origin": 52.502733,
+        "long_origin": 13.406799,
+        "time_destination": 1671486477,
+        "lat_destination": 52.489293,
+        "long_destination": 13.391036
+    },
+    {
+        "bikeid": 19312,
+        "time_origin": 1671486050,
+        "lat_origin": 52.520853,
+        "long_origin": 13.356492,
+        "time_destination": 1671486904,
+        "lat_destination": 52.526382,
+        "long_destination": 13.320082
+    },
+    {
+        "bikeid": 15448,
+        "time_origin": 1671047216,
+        "lat_origin": 52.533218,
+        "long_origin": 13.359572,
+        "time_destination": 1671487087,
+        "lat_destination": 52.525987,
+        "long_destination": 13.328452
+    },
+    {
+        "bikeid": 18060,
+        "time_origin": 1671485989,
+        "lat_origin": 52.522444,
+        "long_origin": 13.450657,
+        "time_destination": 1671487392,
+        "lat_destination": 52.499431,
+        "long_destination": 13.388676
+    },
+    {
+        "bikeid": 10974,
+        "time_origin": 1671035065,
+        "lat_origin": 52.5254,
+        "long_origin": 13.379167,
+        "time_destination": 1671487636,
+        "lat_destination": 52.495858,
+        "long_destination": 13.34165
+    },
+    {
+        "bikeid": 18364,
+        "time_origin": 1671440558,
+        "lat_origin": 52.469644,
+        "long_origin": 13.435716,
+        "time_destination": 1671488429,
+        "lat_destination": 52.483236,
+        "long_destination": 13.446076
+    },
+    {
+        "bikeid": 19890,
+        "time_origin": 1671233388,
+        "lat_origin": 52.504653,
+        "long_origin": 13.44206,
+        "time_destination": 1671488734,
+        "lat_destination": 52.528622,
+        "long_destination": 13.324441
+    },
+    {
+        "bikeid": 18460,
+        "time_origin": 1671488063,
+        "lat_origin": 52.482836,
+        "long_origin": 13.441708,
+        "time_destination": 1671488917,
+        "lat_destination": 52.492222,
+        "long_destination": 13.423974
+    },
+    {
+        "bikeid": 19340,
+        "time_origin": 1671115700,
+        "lat_origin": 52.484476,
+        "long_origin": 13.353501,
+        "time_destination": 1671488978,
+        "lat_destination": 52.550351,
+        "long_destination": 13.371968
+    },
+    {
+        "bikeid": 17985,
+        "time_origin": 1671436471,
+        "lat_origin": 52.52468,
+        "long_origin": 13.40344,
+        "time_destination": 1671489222,
+        "lat_destination": 52.515782,
+        "long_destination": 13.414044
+    },
+    {
+        "bikeid": 19861,
+        "time_origin": 1668350344,
+        "lat_origin": 52.550702,
+        "long_origin": 13.378447,
+        "time_destination": 1671489466,
+        "lat_destination": 52.54616,
+        "long_destination": 13.543386
+    },
+    {
+        "bikeid": 18951,
+        "time_origin": 1671489527,
+        "lat_origin": 52.502702,
+        "long_origin": 13.415191,
+        "time_destination": 1671489588,
+        "lat_destination": 52.501378,
+        "long_destination": 13.41733
+    },
+    {
+        "bikeid": 17010,
+        "time_origin": 1671489649,
+        "lat_origin": 52.52488,
+        "long_origin": 13.309677,
+        "time_destination": 1671490503,
+        "lat_destination": 52.530738,
+        "long_destination": 13.33231
+    },
+    {
+        "bikeid": 19116,
+        "time_origin": 1671487087,
+        "lat_origin": 52.498973,
+        "long_origin": 13.302568,
+        "time_destination": 1671490564,
+        "lat_destination": 52.547484,
+        "long_destination": 13.409336
+    },
+    {
+        "bikeid": 19424,
+        "time_origin": 1671316374,
+        "lat_origin": 52.50004,
+        "long_origin": 13.37782,
+        "time_destination": 1671490625,
+        "lat_destination": 52.497969,
+        "long_destination": 13.378537
+    }
+]
